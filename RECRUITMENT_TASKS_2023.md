@@ -10,14 +10,14 @@
 ### Table of contents
 | Task      |
 | ----------- |
-| [NFT Minter](#task-nft-minter)        |
+| [NFT Minter](#task-id-nft-minter)        |
 | [Task B](#task-b)        |
 
 
 ## Task ID: NFT Minter
 #### `Blockchain`, `Web3`, `NFT`, `Ethereum`
 
-Mentors: [@mittal-parth](https://github.com/mittal-parth) (`+91 9411327838`), [@marcdhi](https://github.com/marcdhi) (`+91 9033398366`), [@ayush4345](https://github.com/ayush4345) (`+91 9334352548`)
+Mentors: [@mittal-parth](https://github.com/mittal-parth) ([+91 9411327838](https://wa.me/919411327838)), [@marcdhi](https://github.com/marcdhi) ([+91 9033398366](https://wa.me/919033398366)), [@ayush4345](https://github.com/ayush4345) ([+91 9334352548](https://wa.me/919334352548))
 
 Tag: `Medium`
 
