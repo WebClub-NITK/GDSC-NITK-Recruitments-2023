@@ -105,6 +105,7 @@ Follow the steps below to complete this challenge:
 3. Use Text Summarisation API's to structure the above generated text into certain format, using prompt engineering if needed.
 4. The final output should be the prettified text.
 
+Note: The focus here is not the UI or the ML model. The UI can be kept relatively simple. The feature set can also be kept minimal by skipping authentication, state saving, etc. The usage of readily available APIs is encouraged and preferred over ML techniques. 
 
 ### Bonus Feature:
 1. Create a Chrome extension for recording, enabling users to record from any browser tab.
