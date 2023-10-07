@@ -131,3 +131,56 @@ These links might give you a direction
 1. Start by exploring existing speech recognition libraries and APIs to handle voice input.
 2. Leverage summarization APIs to enhance the text quality without the need for complex machine learning models.
 3. Ensure that the final output is not only clear but also maintains the core content and meaning from the original voice input.
+
+## Task ID: Meme Feed
+#### `Web Development`, `Frontend Development`, `Backend Development`, `API Integration`
+
+Mentors: [@Abhiraj](https://github.com/xxxxxxxxx) (+91 0000000000), [@Vignaraj](https://github.com/Vignaraj-pai) (+91 6366217217)
+
+Tag: `Easy` / `Medium` ?
+
+### Description
+Create a meme generator web application that allows users to generate memes using an external meme generator API. Additionally, implement advanced features like user authentication, a personal meme database/library, meme publishing, and a meme feed. Brownie points will be awarded for integrating AI image generation techniques.
+
+### Tasks
+1. **Frontend Development**
+   - Create a landing page for the application.
+   - Design a user-friendly and responsive frontend for the meme generator application.
+   - Implement a user interface for meme generation using the meme generator API. Users should be able to choose images, add text, and customize their memes.
+
+2. **Backend Development**
+   - Develop a backend server to handle user requests and interactions with the meme generator API.
+   - Integrate an external meme generator API (e.g., Imgflip API) for meme generation.
+   - Implement user authentication and authorization features.
+
+3. **User Features**
+   - Allow users to register and log in to the application.
+   - Create a personal meme library where users can save their created memes.
+   - Enable users to publish their memes to a shared meme feed.
+   - Implement features for editing and deleting memes.
+
+4. **Brownie Points : AI Integration**
+   - Explore AI image generation techniques and integrate them into the meme generator.
+   - Enhance meme creation with AI-generated content or suggestions.
+
+### API Options
+You can use the following meme generator API for this project:
+- [Imgflip API](https://imgflip.com/api): Provides popular memes and meme generation capabilities.
+- [Meme Generator API](https://memegen.link/api/): Provides popular memes and meme generation capabilities.
+
+### Useful Resources
+- [Sample Meme Generator Website](https://example-meme-generator.com/)
+- [Django](https://www.djangoproject.com/): Backend development framework.
+- [React.js](https://reactjs.org/): Frontend development library.
+- [Next.js](https://nextjs.org/): Frontend development framework.
+- [Tailwind CSS](https://tailwindcss.com/): Frontend development framework.
+- [Bootstrap](https://getbootstrap.com/): Frontend development framework.
+- [Express.js](https://expressjs.com/): Backend development framework.
+- [Passport.js](http://www.passportjs.org/): User authentication library.
+
+### Tips
+1. Choose any language or technology stack you're comfortable with.
+2. Focus on creating an intuitive and visually appealing user interface.
+3. Ensure data security by implementing proper authentication and authorization mechanisms.
+4. Test the application thoroughly to ensure it works smoothly.
+5. Document your code and project structure for future reference.
