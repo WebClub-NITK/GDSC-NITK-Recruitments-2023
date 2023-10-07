@@ -12,6 +12,7 @@
 | ----------- |
 | [NFT Minter](#task-id-nft-minter)        |
 | [Chrome Tabs Organiser](#task-id-chrome-tabs-organiser)        |
+| [VoicePen](#task-id-voicepen)        |
 | [Task B](#task-b)        |
 
 
@@ -86,3 +87,47 @@ These links might give you a direction
 2. Familiarize yourself with the Tabs API to manipulate and manage tabs programmatically.
 3. Explore the concept of Contextual Identity to handle contextual tab grouping effectively.
 
+## Task ID: VoicePen
+#### `AI`, `Full Stack Web Development`, `APIs`
+
+Mentors: [Mardav Gandhi](https://github.com/marcdhi) ([+91 9033398366](https://wa.me/919033398366)), [Parth Mittal](https://github.com/mittal-parth) ([+91 9411327838](https://wa.me/919411327838))
+
+Difficulty: `Medium-Hard`
+
+### Description
+
+Imagine a scenario where you have lots to speak about. You would end up recording a voice note and sharing it. But what if you could convert this into precise text, that doesn't contain the 'umms' and 'aahs' and gives a crisp summary conveying the most important ideas. Your task is to create an application that takes their voice input, converts it into text, and enhances the text's presentation by summarizing it and structuring it according to their requirements.
+
+Follow the steps below to complete this challenge:
+
+1. Implement easy recording functionality, allowing users to start recording by clicking a button on the screen.
+2. On submitting, the application should transcribe spoken words into text, eliminating repeated content, filler words, and restructuring the text for readability.
+3. Use Text Summarisation API's to structure the above generated text into certain format, using prompt engineering if needed.
+4. The final output should be the prettified text.
+
+Note: The focus here is not the UI or the ML model. The UI can be kept relatively simple. The feature set can also be kept minimal by skipping authentication, state saving, etc. The usage of readily available APIs is encouraged and preferred over ML techniques. 
+
+### Bonus Feature(s):
+1. Create a Chrome extension for recording, enabling users to record from any browser tab.
+2. Enable file uploads, where users can upload audio files and text notes for transcription and rewriting.
+3. Implement custom styles, allowing users to define writing styles, including a custom style that mimics their own writing style (use API's like GPT-3.5)
+
+**NOTE**: Implementing any one the above features would be sufficient, and would result in this task being treated as a `Hard` task.
+
+### Useful resources:
+These links might give you a direction
+
+* [Using React.js to record Audio](https://blog.logrocket.com/how-to-create-video-audio-recorder-react/#audio-recorder-component)
+* [Record Audio in Javascript](https://ralzohairi.medium.com/audio-recording-in-javascript-96eed45b75ee)
+* [Voice-to-Text API](https://cloud.google.com/speech-to-text)
+* [Free Summarisation API to get started with](https://oneai.com/)
+* [Hugging Face API](https://huggingface.co/inference-api)
+* [Using Axios to make API Calls](https://blog.logrocket.com/how-to-make-http-requests-like-a-pro-with-axios/)
+* [Hugging Face Access Tokens](https://huggingface.co/docs/hub/security-tokens)
+* [Postman - test and create APIs](https://www.postman.com/)
+
+
+### Tips
+1. Start by exploring existing speech recognition libraries and APIs to handle voice input.
+2. Leverage summarization APIs to enhance the text quality without the need for complex machine learning models.
+3. Ensure that the final output is not only clear but also maintains the core content and meaning from the original voice input.
