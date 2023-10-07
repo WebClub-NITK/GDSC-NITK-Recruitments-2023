@@ -11,6 +11,7 @@
 | Task      |
 | ----------- |
 | [NFT Minter](#task-id-nft-minter)        |
+| [Chrome Tabs Organiser](#task-id-chrome-tabs-organiser)        |
 | [Task B](#task-b)        |
 
 
@@ -48,3 +49,37 @@ These links might give you a direction
 1. Start by researching how to deploy a smart contract on the Ethereum blockchain.
 2. Look into existing NFT standards like `ERC-721` to understand how NFTs work.
 3. You are free to use any frontend framework of your choice.
+
+
+## Task ID: Chrome Tabs Organiser
+#### `Chrome Extension`
+
+Mentors: [Mardav Gandhi](https://github.com/marcdhi) ([+91 9033398366](https://wa.me/919033398366)), [Parth Mittal](https://github.com/mittal-parth) ([+91 9411327838](https://wa.me/919411327838))
+
+Difficulty: `Medium-Hard`
+
+### Description
+
+Currently, Chrome offers a built-in feature for grouping tabs, allowing users to manually organize them, assign names, and assign colors. However, in this task, you will be creating a Chrome Extension that automates this process, making tab management more efficient.
+
+Follow the steps below to complete this challenge:
+
+1. Create a Chrome Extension that automatically groups tabs from the same website under a single bar. Ensure that the extension recognizes the context by naming the bar after the visited website or page automatically.
+2. Implement a feature to assign colors to tabs that match the theme of the respective websites for visual organization.
+
+
+### Bonus Feature:
+
+Implement context recognition from different websites and then group them together automatically. For example, if the user is browsing `web3` content but from different websites, group all of them under the name of a `web3` tab with a default color.
+
+### Useful resources:
+These links might give you a direction
+
+* [Getting Started with Chrome Extensions Development](https://developer.chrome.com/docs/extensions/mv3/getstarted/)
+* [Understanding manifest.json](https://www.freecodecamp.org/news/building-chrome-extension/)
+
+
+### Tips
+1. Begin by understanding the basics of Chrome Extensions development. Refer to the Chrome Extension Documentation for a solid foundation.
+2. Familiarize yourself with the Tabs API to manipulate and manage tabs programmatically.
+3. Explore the concept of Contextual Identity to handle contextual tab grouping effectively.
