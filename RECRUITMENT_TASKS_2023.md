@@ -77,6 +77,7 @@ These links might give you a direction
 
 * [Getting Started with Chrome Extensions Development](https://developer.chrome.com/docs/extensions/mv3/getstarted/)
 * [Understanding manifest.json](https://www.freecodecamp.org/news/building-chrome-extension/)
+* [Chrome Tabs API](https://developer.chrome.com/docs/extensions/reference/tabs/)
 
 
 ### Tips
