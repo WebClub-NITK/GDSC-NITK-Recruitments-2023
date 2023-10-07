@@ -107,7 +107,7 @@ Follow the steps below to complete this challenge:
 
 Note: The focus here is not the UI or the ML model. The UI can be kept relatively simple. The feature set can also be kept minimal by skipping authentication, state saving, etc. The usage of readily available APIs is encouraged and preferred over ML techniques. 
 
-### Bonus Feature:
+### Bonus Feature(s):
 1. Create a Chrome extension for recording, enabling users to record from any browser tab.
 2. Enable file uploads, where users can upload audio files and text notes for transcription and rewriting.
 3. Implement custom styles, allowing users to define writing styles, including a custom style that mimics their own writing style (use API's like GPT-3.5)
