@@ -12,7 +12,7 @@
 | ----------- |
 | [NFT Minter](#task-id-nft-minter)        |
 | [Chrome Tabs Organiser](#task-id-chrome-tabs-organiser)        |
-| [Voice-Text AI](#task-id-voice-text-ai)        |
+| [VoicePen](#task-id-voicepen)        |
 | [Task B](#task-b)        |
 
 
