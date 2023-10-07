@@ -34,13 +34,6 @@ Follow the steps below to complete this challenge:
 3. Implement functionality to allow the owner of an NFT to change its image.
 
 
-Follow the steps below to complete this challenge:
-
-1. Mint a collection of your favorite television characters. Find images of your favorite television characters, and deploy a smart contract that will mint an NFT for each character.
-2. Set a maximum limit of 3000 NFTs for your collection.
-3. Implement functionality to allow the owner of an NFT to change its image.
-
-
 ### Useful resources:
 These links might give you a direction
 
