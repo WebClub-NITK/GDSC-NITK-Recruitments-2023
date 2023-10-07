@@ -87,7 +87,7 @@ These links might give you a direction
 2. Familiarize yourself with the Tabs API to manipulate and manage tabs programmatically.
 3. Explore the concept of Contextual Identity to handle contextual tab grouping effectively.
 
-## Task ID: Voice-Text AI
+## Task ID: VoicePen
 #### `Text Summarisation`, `Voice Recognition`, `Text Processing`
 
 Mentors: [Mardav Gandhi](https://github.com/marcdhi) ([+91 9033398366](https://wa.me/919033398366)), [Parth Mittal](https://github.com/mittal-parth) ([+91 9411327838](https://wa.me/919411327838))
