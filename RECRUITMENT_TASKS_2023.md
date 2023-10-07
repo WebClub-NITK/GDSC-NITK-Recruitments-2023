@@ -88,7 +88,7 @@ These links might give you a direction
 3. Explore the concept of Contextual Identity to handle contextual tab grouping effectively.
 
 ## Task ID: VoicePen
-#### `Text Summarisation`, `Voice Recognition`, `Text Processing`
+#### `AI`, `Full Stack Web Development`, `APIs`
 
 Mentors: [Mardav Gandhi](https://github.com/marcdhi) ([+91 9033398366](https://wa.me/919033398366)), [Parth Mittal](https://github.com/mittal-parth) ([+91 9411327838](https://wa.me/919411327838))
 
