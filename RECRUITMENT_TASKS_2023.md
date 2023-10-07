@@ -146,21 +146,21 @@ Tag: `Medium`
 
 ### Description
 
-Discord is a popular communication platform designed for creating communities. It's widely used by gamers, but it's also a versatile tool for various interest groups, businesses, and developers. A Discord bot is a software application that automates tasks within Discord servers. They can be used for moderation, utilities, games, or music playback, enhancing server functionality.
+Discord is a popular communication platform designed for creating communities. Gamers widely use it, but it's also a versatile tool for various interest groups, businesses, and developers. A Discord bot is a software application that automates tasks within Discord servers. They can be used for moderation, utilities, games, or music playback, enhancing server functionality.
 
-In this task, you are expected to create a interactive Discord bot that displays information about [Web Enthusiast's Club](https://webclub.nitk.ac.in/), the events conducted by it, info about SIGs and so on. Users should be able to access the info by using commands just like how it is done in bots like mee6, arcane. you can explore disords bot [here](https://top.gg/).
+In this task, you are expected to create an interactive Discord bot that displays information about [Web Enthusiast's Club](https://webclub.nitk.ac.in/), the events conducted by it, info about SIGs, and so on. Users should be able to access the information by using commands, just like how it is done in bots like mee6 and arcane. You can explore the discords bot [here](https://top.gg/).
 
 Follow the steps below to complete this challenge:
 
 1. Use a database to store the information about **Web Enthusiast's Club**.
-2. Make a simple interface to insert/update in the database.
-3. Create a interactive Discord Bot using APIs provided by Discord to display information related to Web Club
+2. Make a simple interface to insert and update in the database.
+3. Create an interactive Discord Bot using APIs provided by Discord to display information related to Web Club
 
 \*\*Note: Use dummy data wherever applicable
 
 ### Bonus Feature:
 
-1. Modify the bot to enable natural language interaction, allowing users to ask questions like 'What is the upcoming event?' or 'Who is the convenor of the web club?' instead of uisng commands.
+1. Modify the bot to enable natural language interaction, allowing users to ask questions like 'What is the upcoming event?' or 'Who is the convenor of the web club?' instead of using commands.
 
 ### Useful resources:
 
@@ -170,11 +170,11 @@ Follow the steps below to complete this challenge:
   ](https://discord.com/developers/docs/getting-started)
 - [Supabase](https://supabase.com/)
 - [Building a CRUD App with Supabase and Express](https://medium.com/@heshramsis/building-a-crud-app-with-supabase-and-express-a-step-by-step-guide-for-junior-developers-81456b850910)
-- [Embedchain is a framework to easily create LLM powered bots over any dataset](https://github.com/embedchain/embedchain)
+- [Embedchain is a framework to create LLM-powered bots over any dataset](https://github.com/embedchain/embedchain)
 
 ### Tips
 
-1. You are free to use any language/technology/framework of your choice.
+1. You can use any language/technology/framework of your choice.
 2. Any useful additional/interesting feature will have bonus points.
-3. Try to create a simple user interface to perform different operations on database.
-4. Explore how to use frameworks to make LLM powered bots over your own dataset.
+3. Try to create a simple user interface to perform different operations on the database.
+4. Explore using frameworks to make LLM-powered bots over your dataset.
