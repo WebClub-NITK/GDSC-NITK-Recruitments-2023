@@ -121,6 +121,9 @@ These links might give you a direction
 * [Voice-to-Text API](https://cloud.google.com/speech-to-text)
 * [Free Summarisation API to get started with](https://oneai.com/)
 * [Hugging Face API](https://huggingface.co/inference-api)
+* [Using Axios to make API Calls](https://blog.logrocket.com/how-to-make-http-requests-like-a-pro-with-axios/)
+* [Hugging Face Access Tokens](https://huggingface.co/docs/hub/security-tokens)
+* [Postman - test and create APIs](https://www.postman.com/)
 
 
 ### Tips
