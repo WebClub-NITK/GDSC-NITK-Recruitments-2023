@@ -71,6 +71,7 @@ Follow the steps below to complete this challenge:
 ### Bonus Feature:
 
 Implement context recognition from different websites and then group them together automatically. For example, if the user is browsing `web3` content but from different websites, group all of them under the name of a `web3` tab with a default color.
+**NOTE**: Implementing this feature would result in this task being treated as a `Hard` task.
 
 ### Useful resources:
 These links might give you a direction
