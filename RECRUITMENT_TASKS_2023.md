@@ -96,7 +96,7 @@ Difficulty: `Medium-Hard`
 
 ### Description
 
-Imagine a scenario where a visually impaired individual wishes to compose articles or emails. Your task is to create an application that takes their voice input, converts it into text, and enhances the text's presentation by summarizing it and structuring it according to their requirements.
+Imagine a scenario where you have lots to speak about. You would end up recording a voice note and sharing it. But what if you could convert this into precise text, that doesn't contain the 'umms' and 'aahs' and gives a crisp summary conveying the most important ideas. Your task is to create an application that takes their voice input, converts it into text, and enhances the text's presentation by summarizing it and structuring it according to their requirements.
 
 Follow the steps below to complete this challenge:
 
