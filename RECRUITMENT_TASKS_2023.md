@@ -229,5 +229,5 @@ Follow the steps below to complete this challenge:
 
 1. Explore the SportRadar API using the Postman collection provided in the Documentation.
 2. Try to make it for a single sport first, you may then try having multiple sports.
-3. Since the database is maily being used to store only user data, you try using [Firebase](https://firebase.google.com/), if it makes your work easier.
+3. Since the database is mainly being used to store only user data, you try using [Firebase](https://firebase.google.com/), if it makes your work easier.
 
