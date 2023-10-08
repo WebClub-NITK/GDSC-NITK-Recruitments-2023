@@ -15,6 +15,7 @@
 | [Chrome Tabs Organiser](#task-id-chrome-tabs-organiser)     |
 | [VoicePen](#task-id-voicepen)                               |
 | [WebClub Discord ChatBot](#task-id-webclub-discord-chatbot) |
+| [Leetcode Clone](#task-id-leetcode-clone) |
 
 ## Task ID: NFT Minter
 
@@ -184,3 +185,45 @@ Follow the steps below to complete this challenge:
 1. You can use any language/technology/framework of your choice.
 2. Any useful additional/interesting feature will have bonus points.
 3. Explore using frameworks to make LLM-powered bots over your dataset.
+
+
+## Task ID: Leetcode Clone
+#### `Web Development`, `Code Execution`, `Backend Development`, `API Integration`
+
+Mentors:  [@Shubham-Rasal](https://github.com/Shubham-Rasal) (+91 7349784770),  [@sujay000](https://github.com/sujay000) (+91 94219 68047)
+
+Tag: `Easy` / `Medium`?
+
+### Description
+
+Create a simple leet-code clone that allows to users to create accounts and then solve preset problems. The most essential feature will be to handle arbitrary code execution in more than 1 programming language.
+
+### Tasks
+1. **Frontend Development**
+   - Create a page with a list of questions available to solve.
+   - Implement necessary authentication and authorization for users to access individual questions
+   - Incorporate any open-source code editor for easy coding
+
+2. **Backend Development**
+   - Develop a backend that is responsible for handling user requests
+   - Functionality includes authentication and user data storage.
+   - The most important feature is to incorporate a code execution engine which will be responsible for executing the user-submitted code, comparing results, and returning the output.
+   - This code execution feature can be built from scratch or can be done by using existing APIs (recommended).
+
+### API Options
+You can use the following meme generator API for this project:
+- [Piston API](https://piston.readthedocs.io/en/latest/api-v2/): A high performance general purpose code execution engine.
+- [Judge0 Code Execution](https://ce.judge0.com/) : Robust, scalable, and [open-source](https://github.com/judge0/judge0) online code execution system.
+### Useful Resources
+- [Supabase](https://supabase.com/): Supabase is an open-source Firebase alternative.
+- [React.js](https://reactjs.org/): Frontend development library.
+- [Next.js](https://nextjs.org/): Frontend development framework.
+- [Tailwind CSS](https://tailwindcss.com/): Frontend development framework.
+- [Bootstrap](https://getbootstrap.com/): Frontend development framework.
+- [Express.js](https://expressjs.com/): Backend development framework.
+- [Clerk](https://clerk.com/):  Complete user management.
+- [API request using Postman](https://learning.postman.com/docs/getting-started/first-steps/sending-the-first-request/) 
+
+### Tips
+1. Try to incorporate as many features as possible
+2. Here the focus is more on frontend and backend integration (full-stack) rather than individual components.
