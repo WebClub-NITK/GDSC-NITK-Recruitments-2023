@@ -15,6 +15,7 @@
 | [Chrome Tabs Organiser](#task-id-chrome-tabs-organiser)     |
 | [VoicePen](#task-id-voicepen)                               |
 | [WebClub Discord ChatBot](#task-id-webclub-discord-chatbot) |
+| [Splitwise Clone](#task-id-splitwise-clone)|
 
 ## Task ID: NFT Minter
 
@@ -184,3 +185,33 @@ Follow the steps below to complete this challenge:
 1. You can use any language/technology/framework of your choice.
 2. Any useful additional/interesting feature will have bonus points.
 3. Explore using frameworks to make LLM-powered bots over your dataset.
+
+## Task ID: Splitwise Clone
+
+#### `web development` `low level system design`
+
+Mentors: [@Muthukumar](https://github.com/BenzeneAlcohol) (+91 8921472523), [@Harshit](https://github.com/hgupta12) (+91 8583905686)
+
+Tag: `Hard`
+
+### Description
+
+Your task is to build a Splitwise clone for users to split expenses and minimize the number of transactions among themselves. Users should be able to
+1. Authenticate users
+2. Send friend requests to other users
+3. Make groups and add expenses.
+4. Minimize the number of transactions with a single click.
+5. Track payment status (paid or unpaid)
+
+### Useful resources:
+
+These links might give you a direction
+- [Debt Simplification Algorithm](https://dash.harvard.edu/bitstream/handle/1/38811480/YAO-SENIORTHESIS-2017.pdf?sequence=3)
+- [Low Level Design of Splitwise](https://youtu.be/6UeDb7ORVPI?si=kftUOqWANzHRc_Gd)
+
+### Tips
+
+1. You dont have to implement the backend from scratch (you can use Firebase or any other BaaS).
+2. You may keep a minimal User Interface.
+3. The algorithm used for reducing number of transactions doesn't need to be optimal.
+3. Bonus for adding expense categories and bill picture upload. 
