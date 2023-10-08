@@ -152,13 +152,13 @@ Follow the steps below to complete this challenge:
 4. Implement Authentication and Registration.
 
 ### Bonus Feature(s):
-1. Implement Role Based Access Control where you define the following roles with their permissions. 
-Admin:
-Delete activities by member
-Can remove members.
-Send and receive messages.
-Member:
-Send and receive messages.
+1. Implement Role Based Access Control where you define the following roles with their permissions.     
+Admin:  
+Delete activities by member.  
+Can remove members.  
+Send and receive messages.  
+Member:    
+Send and receive messages.  
 
 **NOTE**: Implementing the above features would result in this task being treated as a `Hard` task.
 
