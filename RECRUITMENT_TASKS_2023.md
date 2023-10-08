@@ -138,9 +138,9 @@ These links might give you a direction
 
 ## Task ID: WebClub Discord ChatBot
 
-#### `database` `Discord bot` `APIs` `Full Stack Development`
+#### `Discord Bot` `APIs` `Full Stack Development`
 
-Mentors: [@Ayush Kumar Singh](https://github.com/Ayush4345) ([+91 9334352548](https://wa.me/919334352548)), [@Abhiraj Mehgade](https://github.com/abhiraj-mehgade) ([+91 7709439025](https://wa.me/917790439025))
+Mentors: [@Ayush Kumar Singh](https://github.com/Ayush4345) ([+91 9334352548](https://wa.me/919334352548)), [@Abhiraj Mengade](https://github.com/abhiraj-mengade) ([+91 7709439025](https://wa.me/917790439025))
 
 Tag: `Medium`
 
@@ -148,11 +148,18 @@ Tag: `Medium`
 
 Discord is a popular communication platform designed for creating communities. Gamers widely use it, but it's also a versatile tool for various interest groups, businesses, and developers. A Discord bot is a software application that automates tasks within Discord servers. They can be used for moderation, utilities, games, or music playback, enhancing server functionality.
 
-In this task, you are expected to create an interactive Discord bot that displays information about [Web Enthusiast's Club](https://webclub.nitk.ac.in/), the events conducted by it, info about SIGs, and so on. Users should be able to access the information by using commands, just like how it is done in bots like mee6 and arcane. You can explore the discords bot [here](https://top.gg/).
+In this task, you are expected to create an interactive Discord bot that displays information about [Web Enthusiasts' Club](https://webclub.nitk.ac.in/) like following things should be covered :
+- Informing about Upcoming Events of WEC
+- Information on SIGs
+- Past Events in each SIGs
+- Non Technical Events
+- Information on Members
+
+ Users should be able to access the information by using commands, just like how it is done in bots like mee6 and arcane. You can explore the discords bot [here](https://top.gg/).
 
 Follow the steps below to complete this challenge:
 
-1. Use a database to store the information about **Web Enthusiast's Club**.
+1. Use a database to store the information about **Web Enthusiasts' Club**.
 2. Make a simple interface to insert and update in the database.
 3. Create an interactive Discord Bot using APIs provided by Discord to display information related to Web Club
 
@@ -176,5 +183,4 @@ Follow the steps below to complete this challenge:
 
 1. You can use any language/technology/framework of your choice.
 2. Any useful additional/interesting feature will have bonus points.
-3. Try to create a simple user interface to perform different operations on the database.
-4. Explore using frameworks to make LLM-powered bots over your dataset.
+3. Explore using frameworks to make LLM-powered bots over your dataset.
