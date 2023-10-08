@@ -204,17 +204,19 @@ Your task is to build a full-stack web application that allows users to track th
 
 Follow the steps below to complete this challenge:
 
-1. Set up a server using a web framework of your choice to handle API requests and responses.
+1. Implement authentication and authorization to ensure that only registered users can access and modify their favorite teams' information.
 2. Integrate the SportRadar API to fetch data about sports teams, including schedules, match results, team details, etc.
 3. Create API endpoints for users to register, log in, and manage their favorite sports teams.
-4. Implement authentication and authorization to ensure that only registered users can access and modify their favorite teams' information.
-5. Have a database to store user data, including their favorite teams and any additional user-specific data you may want to include.
-6. Develop a basic web interface using any framework of your choice that allows users to:
+4. Have a database to store user data, including their favorite teams and any additional user-specific data you may want to include.
+5. Develop a basic web interface using any framework of your choice.
+6. Create calendar events for matches of their favourite teams using Google Calendar API.
+   
+
+In short, the application should allow users to:
    - Register and log in to their accounts.
    - Search for sports teams using the SportRadar API.
    - Add and remove sports teams from their list of favorites.
-   - View detailed information about their favorite teams, including schedules, match results, and player profiles.
-7. Create calendar events for matches of their favorite teams using Google Calendar API.
+   - View detailed information about their favorite teams, including schedules, match results, points table and adds calendar events for fixtures.
 
 ### Useful Resources
 
