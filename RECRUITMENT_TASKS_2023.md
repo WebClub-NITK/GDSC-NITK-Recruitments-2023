@@ -154,9 +154,11 @@ Create a meme feed application. Users should be able to login to the website and
    - Enable users to publish their memes to a shared meme feed.
    - Implement features for editing and deleting memes.
 
+**NOTE:** The task is to implementation all the features rather than the UI/UX. The task will be graded as `hard` only if the final system is a social media feed for memes.
+
 **Bonus Features**
 - AI integration to images to generate memes from.
-- Weekly meme challenges, where users can submit a meme for and vote for the best memes. The memes with most upvotes win.
+- Weekly meme challenges, where users can submit a meme and upvote other memes, with some ponts system as rewards, example: Reddit Karmas.
 
 ### API Options
 You can use the following meme generator API for this project:
@@ -174,7 +176,7 @@ You can use the following meme generator API for this project:
 
 ### Tips
 1. Choose any language or technology stack you're comfortable with.
-2. Focus on creating an intuitive and visually appealing user interface.
+2. Focus on implementing the features than on the UI.
 3. Ensure data security by implementing proper authentication and authorization mechanisms.
 4. Test the application thoroughly to ensure it works smoothly.
 5. Document your code and project structure for future reference.
