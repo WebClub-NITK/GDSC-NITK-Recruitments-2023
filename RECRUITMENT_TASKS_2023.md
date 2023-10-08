@@ -14,6 +14,7 @@
 | [Chrome Tabs Organiser](#task-id-chrome-tabs-organiser)        |
 | [VoicePen](#task-id-voicepen)        |
 | [Task B](#task-b)        |
+| [CollabPro](#task-id-collabpro)        |
 
 
 ## Task ID: NFT Minter
@@ -131,3 +132,45 @@ These links might give you a direction
 1. Start by exploring existing speech recognition libraries and APIs to handle voice input.
 2. Leverage summarization APIs to enhance the text quality without the need for complex machine learning models.
 3. Ensure that the final output is not only clear but also maintains the core content and meaning from the original voice input.
+
+## Task ID: CollabPro
+#### `Sockets`, `Full Stack Web Development`
+
+Mentors: [Tarun S Hegde](https://github.com/tarun-hegde) ([+91 7899719314](https://wa.me/7899719314)), [Pranav Agarwal](https://github.com/pranav2305) ([+91 8867137015](https://wa.me/8867137015))
+
+Difficulty: `Medium-Hard`
+
+### Description
+
+Build a real-time collaboration based productivity application that is creative, innovative, and useful. The application  should be able to solve a real-world problem or make people's lives easier.
+
+Follow the steps below to complete this challenge:
+
+1. Come up with a unique and innovative idea for a real-time collaboration based productivity application .
+2. Design a user interface and user experience that is both visually appealing and easy to use.
+3. Allow users to give and receive feedback on each other's work in real time.
+4. Implement Authentication and Registration.
+
+### Bonus Feature(s):
+1. Implement Role Based Access Control where you define the following roles with their permissions. 
+Admin:
+Delete activities by member
+Can remove members.
+Send and receive messages.
+Member:
+Send and receive messages.
+
+**NOTE**: Implementing the above features would result in this task being treated as a `Hard` task.
+
+### Useful resources:
+These links might give you a direction
+
+* [Implementing WebSockets using Node and React](https://blog.logrocket.com/websocket-tutorial-real-time-node-react/#websocket-establishes-handshake-between-server-client)
+* [Implementing Authentication using Node](https://www.freecodecamp.org/news/how-to-authenticate-users-and-implement-cors-in-nodejs-applications/)
+* [Implementing Role Base Access Control](https://blog.logrocket.com/using-accesscontrol-for-rbac-and-abac-in-node-js/)
+
+### Tips
+
+1. You are free to use any language/technology/framework of your choice.
+2. Any useful additional/interesting feature will have bonus points. 
+3. Focus on creating a visually appealing user interface.
