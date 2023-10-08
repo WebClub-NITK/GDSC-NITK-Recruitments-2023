@@ -138,7 +138,7 @@ These links might give you a direction
 
 Mentors: [Tarun S Hegde](https://github.com/tarun-hegde) ([+91 7899719314](https://wa.me/7899719314)), [Pranav Agarwal](https://github.com/pranav2305) ([+91 8867137015](https://wa.me/8867137015))
 
-Difficulty: `Medium-Hard`
+Difficulty: `Hard`
 
 ### Description
 
@@ -169,6 +169,6 @@ These links might give you a direction
 
 ### Tips
 
-1. You are free to use any language/technology/framework of your choice.
-2. Implementing the bonus features would result in bonus points. 
-3. Focus on creating a visually appealing user interface.
+1. You are free to use any language/technology/framework of your choice.  
+2. Focus on creating a visually appealing user interface.  
+3. Implementing the bonus features would result in bonus points.   
