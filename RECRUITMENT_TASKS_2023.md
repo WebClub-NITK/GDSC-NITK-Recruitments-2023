@@ -160,8 +160,6 @@ Send and receive messages.
 Member:    
 Send and receive messages.  
 
-**NOTE**: Implementing the above features would result in this task being treated as a `Hard` task.
-
 ### Useful resources:
 These links might give you a direction
 
@@ -172,5 +170,5 @@ These links might give you a direction
 ### Tips
 
 1. You are free to use any language/technology/framework of your choice.
-2. Any useful additional/interesting feature will have bonus points. 
+2. Implementing the bonus features would result in bonus points. 
 3. Focus on creating a visually appealing user interface.
