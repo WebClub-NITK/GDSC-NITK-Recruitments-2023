@@ -186,55 +186,6 @@ Follow the steps below to complete this challenge:
 2. Any useful additional/interesting feature will have bonus points.
 3. Explore using frameworks to make LLM-powered bots over your dataset.
 
-## Task ID: WebClub Discord ChatBot
-
-#### `Discord Bot` `APIs` `Full Stack Development`
-
-Mentors: [@Ayush Kumar Singh](https://github.com/Ayush4345) ([+91 9334352548](https://wa.me/919334352548)), [@Abhiraj Mengade](https://github.com/abhiraj-mengade) ([+91 7709439025](https://wa.me/917790439025))
-
-Tag: `Medium`
-
-### Description
-
-Discord is a popular communication platform designed for creating communities. Gamers widely use it, but it's also a versatile tool for various interest groups, businesses, and developers. A Discord bot is a software application that automates tasks within Discord servers. They can be used for moderation, utilities, games, or music playback, enhancing server functionality.
-
-In this task, you are expected to create an interactive Discord bot that displays information about [Web Enthusiasts' Club](https://webclub.nitk.ac.in/) like following things should be covered :
-- Informing about Upcoming Events of WEC
-- Information on SIGs
-- Past Events in each SIGs
-- Non Technical Events
-- Information on Members
-
- Users should be able to access the information by using commands, just like how it is done in bots like mee6 and arcane. You can explore the discords bot [here](https://top.gg/).
-
-Follow the steps below to complete this challenge:
-
-1. Use a database to store the information about **Web Enthusiasts' Club**.
-2. Make a simple interface to insert and update in the database.
-3. Create an interactive Discord Bot using APIs provided by Discord to display information related to Web Club
-
-\*\*Note: Use dummy data wherever applicable
-
-### Bonus Feature:
-
-1. Modify the bot to enable natural language interaction, allowing users to ask questions like 'What is the upcoming event?' or 'Who is the convenor of the web club?' instead of using commands.
-
-### Useful resources:
-
-- [Build a Discord Bot With Python
-  ](https://betterprogramming.pub/coding-a-discord-bot-with-python-64da9d6cade7)
-- [Building your first Discord app
-  ](https://discord.com/developers/docs/getting-started)
-- [Supabase](https://supabase.com/)
-- [Building a CRUD App with Supabase and Express](https://medium.com/@heshramsis/building-a-crud-app-with-supabase-and-express-a-step-by-step-guide-for-junior-developers-81456b850910)
-- [Embedchain is a framework to create LLM-powered bots over any dataset](https://github.com/embedchain/embedchain)
-
-### Tips
-
-1. You can use any language/technology/framework of your choice.
-2. Any useful additional/interesting feature will have bonus points.
-3. Explore using frameworks to make LLM-powered bots over your dataset.
-
 ## Task ID: CollabPro
 #### `Sockets`, `Full Stack Web Development`
 
