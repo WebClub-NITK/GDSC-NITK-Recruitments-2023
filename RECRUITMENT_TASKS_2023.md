@@ -20,6 +20,7 @@
 | [Splitwise Clone](#task-id-splitwise-clone)                 |
 | [File Manager](#task-id-file-manager)                       |
 | [GitHub GraphQL API](#task-id-github-profile-using-graphql-api)|
+| [CollabPro](#task-id-collabpro)        |
 
 
 ## Task ID: NFT Minter
@@ -310,7 +311,42 @@ These links might give you a direction
 1. You dont have to implement the backend from scratch (you can use Firebase or any other BaaS).
 2. You may keep a minimal User Interface.
 3. The algorithm used for reducing number of transactions doesn't need to be optimal.
-4. Bonus for adding expense categories and bill picture upload.
+4. Bonus for adding expense categories and bill picture upload.  
+
+## Task ID: CollabPro
+
+#### `Sockets`, `Full Stack Web Development`
+
+Mentors: [Tarun S Hegde](https://github.com/tarun-hegde) ([+91 7899719314](https://wa.me/7899719314)), [Pranav Agarwal](https://github.com/pranav2305) ([+91 8867137015](https://wa.me/8867137015))
+
+Difficulty: `Hard`
+
+### Description
+
+Build a real-time collaboration based productivity application that is creative, innovative, and useful. The application should be able to solve a real-world problem or make people's lives easier. From a shared To-Do List to sophisticated platforms akin to Google Jamboard and Notion, the possibilities for collaborative productivity are vast and exciting.
+
+Follow the steps below to complete this challenge:  
+
+1. Come up with a unique and innovative idea for a real-time collaboration based productivity application.  
+2. Design a user interface and user experience that is both visually appealing and easy to use.  
+3. Implement Authentication and Registration.  
+
+### Bonus Feature(s):
+1. Implement Role Based Access Control.         
+2. Allow users to give and receive feedback on each other's work in real time.
+
+### Useful resources:
+These links might give you a direction
+
+* [Implementing WebSockets using Node and React](https://blog.logrocket.com/websocket-tutorial-real-time-node-react/#websocket-establishes-handshake-between-server-client)
+* [Implementing Authentication using Node](https://www.freecodecamp.org/news/how-to-authenticate-users-and-implement-cors-in-nodejs-applications/)
+* [Implementing Role Base Access Control](https://blog.logrocket.com/using-accesscontrol-for-rbac-and-abac-in-node-js/)
+
+### Tips
+
+1. You are free to use any language/technology/framework of your choice.  
+2. Focus on creating a visually appealing user interface.  
+3. Implementing the bonus features would result in bonus points.     
 
 
 
