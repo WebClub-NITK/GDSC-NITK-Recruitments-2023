@@ -343,6 +343,5 @@ These links might give you a direction:
 
 1. The primary focus is on the UI.
 2. Start by investigating the NASA APOD, NEO, and any other space-related APIs you intend to use. Recognize their endpoints, data formats, and information retrieval techniques.
-4. Documentation quality.
 
 
