@@ -189,47 +189,41 @@ Follow the steps below to complete this challenge:
 
 ## Task ID: SportsTracker
 
-#### `APIs`, `web development`
+#### `APIs`, `web development`, `UI/UX`
 
 
 Mentors: [Fahim Ahmed](https://github.com/ahmedfahim21) ([+91 8861054452](https://wa.me/918861054452)), [Muthukumar](https://github.com/BenzeneAlcohol) ([+91 8921472523](https://wa.me/8921472523))
 
 
-Difficulty: `Medium`
+Difficulty: `Easy`
 
 
 ### Description
 
-Your task is to build a full-stack web application that allows users to track their favorite sports teams. The application will use the [SportRadar API](https://developer.sportradar.com/docs/read/Home#getting-started) to collect schedules, results, and other information about the user's favourite sports teams. Additionally, it will utilize [Google Calendar API](https://developers.google.com/calendar/api/guides/overview) to create events in the user's Google Calender for upcoming matches.
+Your task is to build a web application that allows users to track their favorite sports teams. The application will use the [SportRadar API](https://developer.sportradar.com/docs/read/Home#getting-started) to collect schedules, results, and other information about the user's favourite sports teams. 
 
 Follow the steps below to complete this challenge:
 
-1. Implement authentication and authorization to ensure that only registered users can access and modify their favorite teams' information.
-2. Integrate the SportRadar API to fetch data about sports teams, including schedules, match results, team details, etc.
-3. Create API endpoints for users to register, log in, and manage their favorite sports teams.
-4. Have a database to store user data, including their favorite teams and any additional user-specific data you may want to include.
-5. Develop a basic web interface using any framework of your choice.
-6. Create calendar events for matches of their favourite teams using Google Calendar API.
-   
+1. Integrate the SportRadar API to fetch data about sports teams, including schedules, match results, team details, etc.
+2. Store user data like their favorite teams and any additional user-specific in browser cookies/local storage(so,no need to use database).
+3. Develop a responsive web interface using any framework of your choice.
 
 In short, the application should allow users to:
-   - Register and log in to their accounts.
    - Search for sports teams using the SportRadar API.
    - Add and remove sports teams from their list of favorites.
-   - View detailed information about their favorite teams, including schedules, match results, points table and adds calendar events for fixtures.
+   - View detailed information about their favorite teams, including schedules, match results, points table, players, etc
 
 ### Useful Resources
 
 [SportRadar API Documentation](https://developer.sportradar.com/docs/read/Home#getting-started)
 
-[Google Calander API Documentation](https://developers.google.com/calendar/api/guides/overview)
-
 [Working with APIs - Postman](https://learning.postman.com/docs/getting-started/first-steps/sending-the-first-request/)
 
+[How to store data in browser](https://blog.bitsrc.io/different-ways-to-store-data-in-browser-706a2afb4e58)
 
 ### Tips
 
 1. Explore the SportRadar API using the Postman collection provided in the Documentation.
 2. Try to make it for a single sport first, you may then try having multiple sports.
-3. Since the database is mainly being used to store only user data, you try using [Firebase](https://firebase.google.com/), if it makes your work easier.
+3. Focus should be on building a good User Interface. Try to have charts, tables, logos, etc.
 
