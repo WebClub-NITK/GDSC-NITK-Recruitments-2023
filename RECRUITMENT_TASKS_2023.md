@@ -15,12 +15,14 @@
 | [Chrome Tabs Organiser](#task-id-chrome-tabs-organiser)     |
 | [VoicePen](#task-id-voicepen)                               |
 | [WebClub Discord ChatBot](#task-id-webclub-discord-chatbot) |
+| [Splitwise Clone](#task-id-splitwise-clone)|
 | [SportsTracker](#task-id-sportstracker)                     |
 | [Leetcode Clone](#task-id-leetcode-clone)                   |
 | [Splitwise Clone](#task-id-splitwise-clone)                 |
 | [File Manager](#task-id-file-manager)                       |
 | [GitHub GraphQL API](#task-id-github-profile-using-graphql-api)|
 | [CollabPro](#task-id-collabpro)        |
+| [Space Exploration App](#task-id-space-exploration-app)|
 
 
 ## Task ID: NFT Minter
@@ -444,4 +446,39 @@ Framework Documentations:
 - Consider using any frameworks or technologies like Electron, Tauri, JavaFX, Qt, GTK or any other that suits your programming skills and preferences.
 - Leverage existing libraries and tools that can simplify certain tasks.
 - Try to keep minimal UI and focus on the functionality of the application.
+
+
+## Task ID: Space Exploration App
+
+#### `Front-End Web Development`, `APIs`, `Svelte`
+
+Mentors: [@Anshuman](https://github.com/anshumanNitk) (+91 9175954118),  [@Parth Mittal](https://github.com/mittal-parth) (+91 94113 27838)
+
+Tag: `Easy`
+
+### Description
+
+The ExploreSpace project aims to bring the wonders of space exploration closer to individuals by providing an immersive and educational experience through a web application.your mission is to design and develop a web application using **Svelte** that offers users an opportunity to explore space, access astronomical data and stay informed.The project should place a high emphasis on user interface (UI) and user experience (UX) design to ensure that users have an entertaining and informative experience.
+
+Follow the steps below to complete this challenge:
+
+1. Create an eye-catching landing page, Prioritize a user-friendly experience with intuitive navigation and engaging visuals.
+2. Add a search bar to show a curated collection of photographs retrieved from NASA's API or any other API of your choice.
+3. Integrate the NASA Near-Earth Object (NEO) API to provide real-time data about asteroids, their orbits, and potential near-Earth encounters.
+4. utilizing your preferred API Curate informative articles and descriptions of space missions and astronomical objects.
+
+### Useful resources:
+
+These links might give you a direction:
+
+- [NASA APIs](https://api.nasa.gov/)
+- [SpaceX APIs](https://docs.spacexdata.com/)
+- [List of Space APIs you can use](https://nordicapis.com/11-space-apis-because-space-is-neat/)
+- [Getting Started with Svelte](https://react.dev/)
+
+### Tips
+
+1. The primary focus is on the UI.
+2. Start by investigating the NASA APOD, NEO, and any other space-related APIs you intend to use. Recognize their endpoints, data formats, and information retrieval techniques.
+
 
