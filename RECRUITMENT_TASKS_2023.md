@@ -15,11 +15,17 @@
 | [Chrome Tabs Organiser](#task-id-chrome-tabs-organiser)     |
 | [VoicePen](#task-id-voicepen)                               |
 | [WebClub Discord ChatBot](#task-id-webclub-discord-chatbot) |
+| [Splitwise Clone](#task-id-splitwise-clone)|
 | [SportsTracker](#task-id-sportstracker)                     |
 | [Leetcode Clone](#task-id-leetcode-clone)                   |
 | [Splitwise Clone](#task-id-splitwise-clone)                 |
+| [File Manager](#task-id-file-manager)                       |
+| [GitHub GraphQL API](#task-id-github-profile-using-graphql-api)|
+| [CollabPro](#task-id-collabpro)        |
+| [Space Exploration App](#task-id-space-exploration-app)|
+| [Department Website Revamp](#task-id-department-website-revamp) |
+| [Random Character Generator](#task-id-random-avatar-generator)|
 | [Meme Feed](#task-id-meme-feed)                             |
-
 
 ## Task ID: NFT Minter
 
@@ -204,7 +210,7 @@ Difficulty: `Easy`
 
 ### Description
 
-Your task is to build a web application that allows users to track their favorite sports teams. The application will use the [SportRadar API](https://developer.sportradar.com/docs/read/Home#getting-started) to collect schedules, results, and other information about the user's favourite sports teams. 
+Your task is to build a website or a mobile app that allows users to track their favorite sports teams. This application will use the [SportRadar API](https://developer.sportradar.com/docs/read/Home#getting-started) to collect schedules, results, and other information about the user's favourite sports teams. 
 
 Follow the steps below to complete this challenge:
 
@@ -309,8 +315,232 @@ These links might give you a direction
 1. You dont have to implement the backend from scratch (you can use Firebase or any other BaaS).
 2. You may keep a minimal User Interface.
 3. The algorithm used for reducing number of transactions doesn't need to be optimal.
-4. Bonus for adding expense categories and bill picture upload.
+4. Bonus for adding expense categories and bill picture upload.  
 
+## Task ID: CollabPro
+
+#### `Sockets`, `Full Stack Web Development`
+
+Mentors: [Tarun S Hegde](https://github.com/tarun-hegde) ([+91 7899719314](https://wa.me/7899719314)), [Pranav Agarwal](https://github.com/pranav2305) ([+91 8867137015](https://wa.me/8867137015))
+
+Difficulty: `Hard`
+
+### Description
+
+Build a real-time collaboration based productivity application that is creative, innovative, and useful. The application should be able to solve a real-world problem or make people's lives easier. From a shared To-Do List to sophisticated platforms akin to Google Jamboard and Notion, the possibilities for collaborative productivity are vast and exciting.
+
+Follow the steps below to complete this challenge:  
+
+1. Come up with a unique and innovative idea for a real-time collaboration based productivity application.  
+2. Design a user interface and user experience that is both visually appealing and easy to use.  
+3. Implement Authentication and Registration.  
+
+### Bonus Feature(s):
+1. Implement Role Based Access Control.         
+2. Allow users to give and receive feedback on each other's work in real time.
+
+### Useful resources:
+These links might give you a direction
+
+* [Implementing WebSockets using Node and React](https://blog.logrocket.com/websocket-tutorial-real-time-node-react/#websocket-establishes-handshake-between-server-client)
+* [Implementing Authentication using Node](https://www.freecodecamp.org/news/how-to-authenticate-users-and-implement-cors-in-nodejs-applications/)
+* [Implementing Role Base Access Control](https://blog.logrocket.com/using-accesscontrol-for-rbac-and-abac-in-node-js/)
+
+### Tips
+
+1. You are free to use any language/technology/framework of your choice.  
+2. Focus on creating a visually appealing user interface.  
+3. Implementing the bonus features would result in bonus points.     
+
+
+
+## Task ID: GitHub Profile using GraphQL API
+
+#### `GitHub API` `GraphQL` `Frontend`
+
+Mentors: [@Vedant Tarale](https://github.com/VedantTarale) (+91 8106713107), [@Anirudh Prabhakaran](https://github.com/anirudhprabhakaran3) (+91 8826767787)
+
+Tag: `Medium`
+
+### Description
+ 
+The task requires you to build a web interface from users to enter a GitHub IDs and retrive the account statistics which could include the following details -
+
+- **User Deatils** 
+
+- **Most Recent Repos**
+
+- **Commit History** 
+
+- **Heatmaps or Graphs**
+
+The frontend of the application can be developed using any framework of your choice.
+
+**Note:** Your implementation need not be limited to the above statistics. Feel
+free to explore the [GitHub GraphQL API](https://docs.github.com/graphql) for more info.
+
+**NOTE:** You are required to strictly use a **GraphQL API** for this task.
+
+### Useful resources:
+
+These links might give you a direction
+- [GitHub GraphQL API](https://docs.github.com/graphql)
+- [GitHub Guide to using GraphQL](https://docs.github.com/en/graphql/guides/introduction-to-graphql)
+- [Learn GraphQL - Official Site](https://graphql.org/learn/)
+- [ReactJS Documentation](https://react.dev/learn)
+- [TailwindCSS Documentation](https://tailwindcss.com/docs/installation)
+### Tips
+
+1. You can use any CSS framework of your liking.
+2. UI/UX should be well designed.
+3. Bonus for making the application responsive.
+
+
+## Task ID: File Manager
+
+#### `Desktop Application`
+
+Mentors: [@Sathvik Hebbar](https://github.com/sathuhebbar) ([+91 6363963887](https://wa.me/916363963887)), [@Fahim Ahmed](https://github.com/ahmedfahim21) ([+91 8861054452](https://wa.me/918861054452))
+
+Tag: `Hard`
+
+### Description:
+
+Desktop applications are software programs that are designed to run on individual computers or devices, such as personal computers and laptops. Unlike web applications, which run in web browsers, desktop applications are installed and executed directly on the user's local machine. They offer various advantages, including improved performance, offline functionality, and access to the full capabilities of the host operating system.
+
+There are several frameworks and technologies used for desktop application development, each with its own strengths and characteristics.
+Some of the popular ones are:
+- Electron (used by editors like VS Code and Atom)
+- Tauri ( Rust based toolchain for creating desktop apps using common web frameworks )
+- JavaFX (cross platform Java library, successor to Java SWING)
+- Qt (the framework behind the KDE suite )
+- GTK (the most common linux framework, employed by GNOME, MATE, XFCE and almost all non-KDE descendents)
+
+
+In this task, you need to build a simple file manager that allows users to organize, view, and manipulate files and folders on their computer.
+
+Implement a GUI application with the common features found in file managers:
+1. Support for basic file and folder operations such as creating, deleting, copying, and renaming files and folders.
+2. Easy access to information about files and folders like size, type, date created, date modified, permissions (the Properties dialog box basically).
+3. The quick access pane - the pane which shows your library folders (documents, downloads etc), attached devices, etc for easy navigation. 
+4. Graceful error handling - appropriate dialog boxes for say a failed operation (due to lack of permissions).
+
+Feel free to implement any other features that you find on your preferred file manager! 
+
+### Useful Resources:
+
+About file systems
+- [C filesyscalls](https://www2.cs.uregina.ca/~hamilton/courses/330/notes/unix/filesyscalls.html)
+- [Rust fs](https://doc.rust-lang.org/stable/std/fs/index.html)
+
+Some good file manager examples for inspiration:
+- [XFCE Thunar](https://docs.xfce.org/xfce/thunar/start)
+- [KDE Dolphin](https://apps.kde.org/dolphin/)
+
+Framework Documentations:
+- [Tauri](https://tauri.app/)
+- [Electron](https://www.electronjs.org/docs/latest)
+- [JavaFX](https://docs.oracle.com/javase/8/javafx/api/toc.htm)
+- [GTK](https://www.gtk.org/docs/)
+- [QT](https://doc.qt.io/)
+
+### Tips:
+- Consider using any frameworks or technologies like Electron, Tauri, JavaFX, Qt, GTK or any other that suits your programming skills and preferences.
+- Leverage existing libraries and tools that can simplify certain tasks.
+- Try to keep minimal UI and focus on the functionality of the application.
+
+
+## Task ID: Space Exploration App
+
+#### `Front-End Web Development`, `APIs`, `Svelte`
+
+Mentors: [@Anshuman](https://github.com/anshumanNitk) (+91 9175954118),  [@Parth Mittal](https://github.com/mittal-parth) (+91 94113 27838)
+
+Tag: `Easy`
+
+### Description
+
+The ExploreSpace project aims to bring the wonders of space exploration closer to individuals by providing an immersive and educational experience through a web application.your mission is to design and develop a web application using **Svelte** that offers users an opportunity to explore space, access astronomical data and stay informed.The project should place a high emphasis on user interface (UI) and user experience (UX) design to ensure that users have an entertaining and informative experience.
+
+Follow the steps below to complete this challenge:
+
+1. Create an eye-catching landing page, Prioritize a user-friendly experience with intuitive navigation and engaging visuals.
+2. Add a search bar to show a curated collection of photographs retrieved from NASA's API or any other API of your choice.
+3. Integrate the NASA Near-Earth Object (NEO) API to provide real-time data about asteroids, their orbits, and potential near-Earth encounters.
+4. utilizing your preferred API Curate informative articles and descriptions of space missions and astronomical objects.
+
+### Useful resources:
+
+These links might give you a direction:
+
+- [NASA APIs](https://api.nasa.gov/)
+- [SpaceX APIs](https://docs.spacexdata.com/)
+- [List of Space APIs you can use](https://nordicapis.com/11-space-apis-because-space-is-neat/)
+- [Getting Started with Svelte](https://react.dev/)
+
+### Tips
+
+1. The primary focus is on the UI.
+2. Start by investigating the NASA APOD, NEO, and any other space-related APIs you intend to use. Recognize their endpoints, data formats, and information retrieval techniques.
+
+
+
+## Task ID: Department Website Revamp
+
+#### `Web Development` `UI/UX Design` `Figma`
+
+Mentors:  [@Parth Mittal](https://github.com/mittal-parth) (+91 9411327838)
+, [@Harshit](https://github.com/hgupta12) (+91 8583905686)
+
+Tag: `Easy`
+
+### Description
+
+Your task is to give your Department's website a fresh makeover. The main focus of this task is on the UI/UX aspect. Atleast 5 pages must be implemented. You may implement the website in any framework of your choice or submit a Figma mockup.
+
+
+### Useful resources:
+
+These links might give you a direction
+- [NITK Departments](https://www.nitk.ac.in/departments-and-centers)
+- [How To Plan A Website Redesign](https://www.altexsoft.com/blog/uxdesign/how-to-plan-a-website-redesign-stages-approaches-principles/)
+
+### Tips
+
+1. You will be judged solely on the user interface and journey.
+2. Use information from the original website.
+
+## Task ID: Random Avatar Generator
+
+#### `API Development`
+
+Mentors:  [@Parth Mittal](https://github.com/mittal-parth) (+91 9411327838)
+, [@Harshit](https://github.com/hgupta12) (+91 8583905686)
+
+Tag: `Easy-Medium`
+
+### Description
+
+Your task is to create an API that generates random avatars. The following features are required to complete the task - 
+1. The user should be able to generate avatars based on the random string passed to the API endpoint (Example - https://api.dicebear.com/7.x/adventurer-neutral/svg?seed=webclub)
+2. The user should have the option of choosing between different file formats (svg and png).
+3. Create a landing page and getting started guide to help the user.
+
+### Useful resources:
+
+These links might give you a direction
+- [DiceBear](https://www.dicebear.com/)
+- [Generating Github Like Characters](https://codesandbox.io/s/9mqum)
+- [Generating SVG Characters](https://css-irl.info/creating-generative-svg-characters/)
+- [How To Manipulate SVGs](https://www.educative.io/answers/how-to-manipulate-svgs-via-css)
+- [How To Generate Random Art](https://www.youtube.com/watch?v=meTpMP0J5E8&t=182s)
+
+### Tips
+
+1. You can use any language or framework of your choice.
+2. The task will be considered as `Medium` if user authentication and rate limiting is implemented. 
+3. Don't directly copy the implementation given in resources.
+4. Brownie points for using the generator for the [NFT Minter](#task-id-nft-minter) task.
 
 ## Task ID: Meme Feed
 #### `Web Development`, `Frontend Development`, `Backend Development`, `API Integration`
