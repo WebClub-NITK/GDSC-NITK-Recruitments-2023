@@ -16,6 +16,7 @@
 | [VoicePen](#task-id-voicepen)                               |
 | [WebClub Discord ChatBot](#task-id-webclub-discord-chatbot) |
 | [Splitwise Clone](#task-id-splitwise-clone)|
+| [AnimeCanvas](#task-id-splitwise-clone)|
 
 ## Task ID: NFT Minter
 
@@ -222,3 +223,44 @@ These links might give you a direction
 2. You may keep a minimal User Interface.
 3. The algorithm used for reducing number of transactions doesn't need to be optimal.
 4. Bonus for adding expense categories and bill picture upload.
+
+
+## Task ID: AnimeCanvas
+#### `Front-End Web Development`, `APIs`
+
+Mentors: [@Anshuman](https://github.com/anshumanNitk) (+91 9175954118),  [@Parth Mittal](https://github.com/mittal-parth) (+91 94113 27838)
+
+Tag: `Easy`
+
+### Description
+
+Anime enthusiasts are always looking for high-quality wallpapers to display their love for their favorite series and characters. However, finding wallpapers that fulfill their quality and variety standards might be difficult. Furthermore, finding new and fascinating anime programs to watch is sometimes left to chance or word-of-mouth recommendations.Develop a web application that addresses these challenges by providing anime enthusiasts with a platform where they can easily access wallpapers while discovering the new anime.
+
+Follow the steps below to complete this challenge:
+
+1. Use anime-related APIs to get a large collection of anime wallpapers. Ensure that the application's wallpaper library is constantly updated in order to provide fresh and appealing content.
+2. Implement intuitive search and filtering options, allowing users to browse wallpapers by series, genre, resolution, and popularity.
+3. Leverage anime APIs to provide personalized top anime series recommendations to users along with ratings, also recommend random anime.
+4. Create an attention-grabbing landing page that showcases high-quality anime wallpapers and top anime recommendations prominently.
+
+### Useful resources:
+
+These links might give you a direction:
+
+- [Jikan](https://jikan.moe/)
+- [AniDB](https://wiki.anidb.net/HTTP_API_Definition)
+
+Front-end Frameworks: 
+
+- [Getting Started with ReactJS](https://react.dev/)
+- [Getting Started with Svelte](https://react.dev/)
+
+### Tips
+
+1. You are not limited by any language or technology.
+2. The primary focus is on the UI.
+3. Integration and effective use of anime-related APIs.
+4. Documentation quality.
+
+
+
