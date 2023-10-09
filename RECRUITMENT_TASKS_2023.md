@@ -192,11 +192,11 @@ Follow the steps below to complete this challenge:
 
 Mentors:  [@Shubham-Rasal](https://github.com/Shubham-Rasal) (+91 7349784770),  [@sujay000](https://github.com/sujay000) (+91 94219 68047)
 
-Tag: `Easy` / `Medium`?
+Tag: `Hard`?
 
 ### Description
 
-Create a simple leet-code clone that allows to users to create accounts and then solve preset problems. The most essential feature will be to handle arbitrary code execution in more than 1 programming language.
+Create a simple leetcode clone that allows to users to create account and then solve preset problems in more than one programming language
 
 ### Tasks
 1. **Frontend Development**
@@ -225,5 +225,6 @@ You can use the following meme generator API for this project:
 - [API request using Postman](https://learning.postman.com/docs/getting-started/first-steps/sending-the-first-request/) 
 
 ### Tips
-1. Try to incorporate as many features as possible
-2. Here the focus is more on frontend and backend integration (full-stack) rather than individual components.
+1. Use Postman API request code gen feature to speed up development
+2. Use Baas (Backend as a service like firebase or supabase) to offload critical parts of the system
+3. Making a rough workflow or system design diagram before starting can be really helpful
