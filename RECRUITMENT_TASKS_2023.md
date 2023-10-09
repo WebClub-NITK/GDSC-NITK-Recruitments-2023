@@ -16,6 +16,8 @@
 | [VoicePen](#task-id-voicepen)                               |
 | [WebClub Discord ChatBot](#task-id-webclub-discord-chatbot) |
 | [Splitwise Clone](#task-id-splitwise-clone)|
+| [Department Website Revamp](#task-id-department-website-revamp) |
+| [Random Character Generator](#task-id-random-avatar-generator)|
 
 ## Task ID: NFT Minter
 
@@ -222,3 +224,60 @@ These links might give you a direction
 2. You may keep a minimal User Interface.
 3. The algorithm used for reducing number of transactions doesn't need to be optimal.
 4. Bonus for adding expense categories and bill picture upload.
+
+## Task ID: Department Website Revamp
+
+#### `Web Development` `UI/UX Design` `Figma`
+
+Mentors:  [@Parth Mittal](https://github.com/mittal-parth) (+91 9411327838)
+, [@Harshit](https://github.com/hgupta12) (+91 8583905686)
+
+Tag: `Easy`
+
+### Description
+
+Your task is to give your Department's website a fresh makeover. The main focus of this task is on the UI/UX aspect. Atleast 5 pages must be implemented. You may implement the website in any framework of your choice or submit a Figma mockup.
+
+
+### Useful resources:
+
+These links might give you a direction
+- [NITK Departments](https://www.nitk.ac.in/departments-and-centers)
+- [How To Plan A Website Redesign](https://www.altexsoft.com/blog/uxdesign/how-to-plan-a-website-redesign-stages-approaches-principles/)
+
+### Tips
+
+1. You will be judged solely on the user interface and journey.
+2. Use information from the original website.
+
+## Task ID: Random Avatar Generator
+
+#### `API Development`
+
+Mentors:  [@Parth Mittal](https://github.com/mittal-parth) (+91 9411327838)
+, [@Harshit](https://github.com/hgupta12) (+91 8583905686)
+
+Tag: `Easy-Medium`
+
+### Description
+
+Your task is to create an API that generates random avatars. The following features are required to complete the task - 
+1. The user should be able to generate avatars based on the random string passed to the API endpoint (Example - https://api.dicebear.com/7.x/adventurer-neutral/svg?seed=webclub)
+2. The user should have the option of choosing between different file formats (svg and png).
+3. Create a landing page and getting started guide to help the user.
+
+### Useful resources:
+
+These links might give you a direction
+- [DiceBear](https://www.dicebear.com/)
+- [Generating Github Like Characters](https://codesandbox.io/s/9mqum)
+- [Generating SVG Characters](https://css-irl.info/creating-generative-svg-characters/)
+- [How To Manipulate SVGs](https://www.educative.io/answers/how-to-manipulate-svgs-via-css)
+- [How To Generate Random Art](https://www.youtube.com/watch?v=meTpMP0J5E8&t=182s)
+
+### Tips
+
+1. You can use any language or framework of your choice.
+2. The task will be considered as `Medium` if user authentication and rate limiting is implemented. 
+3. Don't directly copy the implementation given in resources.
+4. Brownie points for using the generator for the [NFT Minter](#task-id-nft-minter) task.
