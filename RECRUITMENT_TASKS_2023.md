@@ -204,9 +204,11 @@ Your task is to build a web application that allows users to track their favorit
 
 Follow the steps below to complete this challenge:
 
-1. Integrate the SportRadar API to fetch data about sports teams, including schedules, match results, team details, etc.
-2. Store user data like their favorite teams and any additional user-specific in browser cookies/local storage(so,no need to use database).
-3. Develop a responsive web interface using any framework of your choice.
+1. Develop a responsive frontend using any framework of your choice.
+2. Use the SportRadar API to fetch data about sports teams, including schedules, match results, team details, etc.
+3. Store user data like their favorite teams in browser cookies/local storage(so,no need to use database).
+
+  
 
 In short, the application should allow users to:
    - Search for sports teams using the SportRadar API.
