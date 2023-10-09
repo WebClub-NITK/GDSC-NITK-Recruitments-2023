@@ -18,7 +18,10 @@
 | [SportsTracker](#task-id-sportstracker)                     |
 | [Leetcode Clone](#task-id-leetcode-clone)                   |
 | [Splitwise Clone](#task-id-splitwise-clone)                 |
+| [File Manager](#task-id-file-manager)                       |
+| [GitHub GraphQL API](#task-id-github-profile-using-graphql-api)|
 | [CollabPro](#task-id-collabpro)        |
+
 
 ## Task ID: NFT Minter
 
@@ -203,7 +206,7 @@ Difficulty: `Easy`
 
 ### Description
 
-Your task is to build a web application that allows users to track their favorite sports teams. The application will use the [SportRadar API](https://developer.sportradar.com/docs/read/Home#getting-started) to collect schedules, results, and other information about the user's favourite sports teams. 
+Your task is to build a website or a mobile app that allows users to track their favorite sports teams. This application will use the [SportRadar API](https://developer.sportradar.com/docs/read/Home#getting-started) to collect schedules, results, and other information about the user's favourite sports teams. 
 
 Follow the steps below to complete this challenge:
 
@@ -344,3 +347,101 @@ These links might give you a direction
 1. You are free to use any language/technology/framework of your choice.  
 2. Focus on creating a visually appealing user interface.  
 3. Implementing the bonus features would result in bonus points.     
+
+
+
+## Task ID: GitHub Profile using GraphQL API
+
+#### `GitHub API` `GraphQL` `Frontend`
+
+Mentors: [@Vedant Tarale](https://github.com/VedantTarale) (+91 8106713107), [@Anirudh Prabhakaran](https://github.com/anirudhprabhakaran3) (+91 8826767787)
+
+Tag: `Medium`
+
+### Description
+ 
+The task requires you to build a web interface from users to enter a GitHub IDs and retrive the account statistics which could include the following details -
+
+- **User Deatils** 
+
+- **Most Recent Repos**
+
+- **Commit History** 
+
+- **Heatmaps or Graphs**
+
+The frontend of the application can be developed using any framework of your choice.
+
+**Note:** Your implementation need not be limited to the above statistics. Feel
+free to explore the [GitHub GraphQL API](https://docs.github.com/graphql) for more info.
+
+**NOTE:** You are required to strictly use a **GraphQL API** for this task.
+
+### Useful resources:
+
+These links might give you a direction
+- [GitHub GraphQL API](https://docs.github.com/graphql)
+- [GitHub Guide to using GraphQL](https://docs.github.com/en/graphql/guides/introduction-to-graphql)
+- [Learn GraphQL - Official Site](https://graphql.org/learn/)
+- [ReactJS Documentation](https://react.dev/learn)
+- [TailwindCSS Documentation](https://tailwindcss.com/docs/installation)
+### Tips
+
+1. You can use any CSS framework of your liking.
+2. UI/UX should be well designed.
+3. Bonus for making the application responsive.
+
+
+## Task ID: File Manager
+
+#### `Desktop Application`
+
+Mentors: [@Sathvik Hebbar](https://github.com/sathuhebbar) ([+91 6363963887](https://wa.me/916363963887)), [@Fahim Ahmed](https://github.com/ahmedfahim21) ([+91 8861054452](https://wa.me/918861054452))
+
+Tag: `Hard`
+
+### Description:
+
+Desktop applications are software programs that are designed to run on individual computers or devices, such as personal computers and laptops. Unlike web applications, which run in web browsers, desktop applications are installed and executed directly on the user's local machine. They offer various advantages, including improved performance, offline functionality, and access to the full capabilities of the host operating system.
+
+There are several frameworks and technologies used for desktop application development, each with its own strengths and characteristics.
+Some of the popular ones are:
+- Electron (used by editors like VS Code and Atom)
+- Tauri ( Rust based toolchain for creating desktop apps using common web frameworks )
+- JavaFX (cross platform Java library, successor to Java SWING)
+- Qt (the framework behind the KDE suite )
+- GTK (the most common linux framework, employed by GNOME, MATE, XFCE and almost all non-KDE descendents)
+
+
+In this task, you need to build a simple file manager that allows users to organize, view, and manipulate files and folders on their computer.
+
+Implement a GUI application with the common features found in file managers:
+1. Support for basic file and folder operations such as creating, deleting, copying, and renaming files and folders.
+2. Easy access to information about files and folders like size, type, date created, date modified, permissions (the Properties dialog box basically).
+3. The quick access pane - the pane which shows your library folders (documents, downloads etc), attached devices, etc for easy navigation. 
+4. Graceful error handling - appropriate dialog boxes for say a failed operation (due to lack of permissions).
+
+Feel free to implement any other features that you find on your preferred file manager! 
+
+### Useful Resources:
+
+About file systems
+- [C filesyscalls](https://www2.cs.uregina.ca/~hamilton/courses/330/notes/unix/filesyscalls.html)
+- [Rust fs](https://doc.rust-lang.org/stable/std/fs/index.html)
+
+Some good file manager examples for inspiration:
+- [XFCE Thunar](https://docs.xfce.org/xfce/thunar/start)
+- [KDE Dolphin](https://apps.kde.org/dolphin/)
+
+Framework Documentations:
+- [Tauri](https://tauri.app/)
+- [Electron](https://www.electronjs.org/docs/latest)
+- [JavaFX](https://docs.oracle.com/javase/8/javafx/api/toc.htm)
+- [GTK](https://www.gtk.org/docs/)
+- [QT](https://doc.qt.io/)
+
+### Tips:
+- Consider using any frameworks or technologies like Electron, Tauri, JavaFX, Qt, GTK or any other that suits your programming skills and preferences.
+- Leverage existing libraries and tools that can simplify certain tasks.
+- Try to keep minimal UI and focus on the functionality of the application.
+
