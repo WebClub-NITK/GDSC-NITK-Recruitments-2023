@@ -15,8 +15,10 @@
 | [Chrome Tabs Organiser](#task-id-chrome-tabs-organiser)     |
 | [VoicePen](#task-id-voicepen)                               |
 | [WebClub Discord ChatBot](#task-id-webclub-discord-chatbot) |
-| [Leetcode Clone](#task-id-leetcode-clone) |
-| [Splitwise Clone](#task-id-splitwise-clone)|
+| [SportsTracker](#task-id-sportstracker)                     |
+| [Leetcode Clone](#task-id-leetcode-clone)                   |
+| [Splitwise Clone](#task-id-splitwise-clone)                 |
+
 
 ## Task ID: NFT Minter
 
@@ -188,6 +190,45 @@ Follow the steps below to complete this challenge:
 3. Explore using frameworks to make LLM-powered bots over your dataset.
 
 
+## Task ID: SportsTracker
+
+#### `APIs`, `Web Development`, `App Development`, `UI/UX`
+
+
+Mentors: [@Fahim Ahmed](https://github.com/ahmedfahim21) ([+91 8861054452](https://wa.me/918861054452)), [@Muthukumar](https://github.com/BenzeneAlcohol) ([+91 8921472523](https://wa.me/8921472523))
+
+
+Difficulty: `Easy`
+
+
+### Description
+
+Your task is to build a web application that allows users to track their favorite sports teams. The application will use the [SportRadar API](https://developer.sportradar.com/docs/read/Home#getting-started) to collect schedules, results, and other information about the user's favourite sports teams. 
+
+Follow the steps below to complete this challenge:
+
+1. Develop a responsive frontend using any framework of your choice.
+2. Use the SportRadar API to fetch data about sports teams, including schedules, match results, team details, etc.
+3. Store user data like their favorite teams in browser cookies/local storage(so,no need to use database).
+
+In short, the application should allow users to:
+   - Search for sports teams using the SportRadar API.
+   - Add and remove sports teams from their list of favorites.
+   - View detailed information about their favorite teams, including schedules, match results, points table, players, etc
+
+### Useful Resources
+
+- [SportRadar API Documentation](https://developer.sportradar.com/docs/read/Home#getting-started)
+- [Working with APIs - Postman](https://learning.postman.com/docs/getting-started/first-steps/sending-the-first-request/)
+- [How to store data in browser](https://blog.bitsrc.io/different-ways-to-store-data-in-browser-706a2afb4e58)
+
+### Tips
+
+1. Explore the SportRadar API using the Postman collection provided in the Documentation.
+2. Try to make it for a single sport first, you may then try having multiple sports.
+3. Focus should be on building a good User Interface. Try to have charts, tables, logos, etc.
+
+
 
 ## Task ID: Leetcode Clone
 #### `Web Development`, `Code Execution`, `Backend Development`, `API Integration`
@@ -230,6 +271,7 @@ You can use the following meme generator API for this project:
 1. Use Postman API request code gen feature to speed up development
 2. Use Baas (Backend as a service like firebase or supabase) to offload critical parts of the system
 3. Making a rough workflow or system design diagram before starting can be really helpful
+
 
 ## Task ID: Splitwise Clone
 
