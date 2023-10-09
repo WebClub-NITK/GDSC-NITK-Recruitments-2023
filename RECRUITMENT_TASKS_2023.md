@@ -15,7 +15,10 @@
 | [Chrome Tabs Organiser](#task-id-chrome-tabs-organiser)     |
 | [VoicePen](#task-id-voicepen)                               |
 | [WebClub Discord ChatBot](#task-id-webclub-discord-chatbot) |
-| [Splitwise Clone](#task-id-splitwise-clone)|
+| [SportsTracker](#task-id-sportstracker)                     |
+| [Leetcode Clone](#task-id-leetcode-clone)                   |
+| [Splitwise Clone](#task-id-splitwise-clone)                 |
+
 | [Department Website Revamp](#task-id-department-website-revamp) |
 | [Random Character Generator](#task-id-random-avatar-generator)|
 
@@ -188,6 +191,90 @@ Follow the steps below to complete this challenge:
 2. Any useful additional/interesting feature will have bonus points.
 3. Explore using frameworks to make LLM-powered bots over your dataset.
 
+
+## Task ID: SportsTracker
+
+#### `APIs`, `Web Development`, `App Development`, `UI/UX`
+
+
+Mentors: [@Fahim Ahmed](https://github.com/ahmedfahim21) ([+91 8861054452](https://wa.me/918861054452)), [@Muthukumar](https://github.com/BenzeneAlcohol) ([+91 8921472523](https://wa.me/8921472523))
+
+
+Difficulty: `Easy`
+
+
+### Description
+
+Your task is to build a web application that allows users to track their favorite sports teams. The application will use the [SportRadar API](https://developer.sportradar.com/docs/read/Home#getting-started) to collect schedules, results, and other information about the user's favourite sports teams. 
+
+Follow the steps below to complete this challenge:
+
+1. Develop a responsive frontend using any framework of your choice.
+2. Use the SportRadar API to fetch data about sports teams, including schedules, match results, team details, etc.
+3. Store user data like their favorite teams in browser cookies/local storage(so,no need to use database).
+
+In short, the application should allow users to:
+   - Search for sports teams using the SportRadar API.
+   - Add and remove sports teams from their list of favorites.
+   - View detailed information about their favorite teams, including schedules, match results, points table, players, etc
+
+### Useful Resources
+
+- [SportRadar API Documentation](https://developer.sportradar.com/docs/read/Home#getting-started)
+- [Working with APIs - Postman](https://learning.postman.com/docs/getting-started/first-steps/sending-the-first-request/)
+- [How to store data in browser](https://blog.bitsrc.io/different-ways-to-store-data-in-browser-706a2afb4e58)
+
+### Tips
+
+1. Explore the SportRadar API using the Postman collection provided in the Documentation.
+2. Try to make it for a single sport first, you may then try having multiple sports.
+3. Focus should be on building a good User Interface. Try to have charts, tables, logos, etc.
+
+
+
+## Task ID: Leetcode Clone
+#### `Web Development`, `Code Execution`, `Backend Development`, `API Integration`
+
+Mentors:  [@Shubham-Rasal](https://github.com/Shubham-Rasal) (+91 7349784770),  [@sujay000](https://github.com/sujay000) (+91 94219 68047)
+
+Tag: `Hard`?
+
+### Description
+
+Create a simple leetcode clone that allows to users to create account and then solve preset problems in more than one programming language
+
+### Tasks
+1. **Frontend Development**
+   - Create a page with a list of questions available to solve.
+   - Implement necessary authentication and authorization for users to access individual questions
+   - Incorporate any open-source code editor for easy coding
+
+2. **Backend Development**
+   - Develop a backend that is responsible for handling user requests
+   - Functionality includes authentication and user data storage.
+   - The most important feature is to incorporate a code execution engine which will be responsible for executing the user-submitted code, comparing results, and returning the output.
+   - This code execution feature can be built from scratch or can be done by using existing APIs (recommended).
+
+### API Options
+You can use the following meme generator API for this project:
+- [Piston API](https://piston.readthedocs.io/en/latest/api-v2/): A high performance general purpose code execution engine.
+- [Judge0 Code Execution](https://ce.judge0.com/) : Robust, scalable, and [open-source](https://github.com/judge0/judge0) online code execution system.
+### Useful Resources
+- [Supabase](https://supabase.com/): Supabase is an open-source Firebase alternative.
+- [React.js](https://reactjs.org/): Frontend development library.
+- [Next.js](https://nextjs.org/): Frontend development framework.
+- [Tailwind CSS](https://tailwindcss.com/): Frontend development framework.
+- [Bootstrap](https://getbootstrap.com/): Frontend development framework.
+- [Express.js](https://expressjs.com/): Backend development framework.
+- [Clerk](https://clerk.com/):  Complete user management.
+- [API request using Postman](https://learning.postman.com/docs/getting-started/first-steps/sending-the-first-request/) 
+
+### Tips
+1. Use Postman API request code gen feature to speed up development
+2. Use Baas (Backend as a service like firebase or supabase) to offload critical parts of the system
+3. Making a rough workflow or system design diagram before starting can be really helpful
+
+
 ## Task ID: Splitwise Clone
 
 #### `Web Development` `App Development`  `Low Level Design`
@@ -224,6 +311,7 @@ These links might give you a direction
 2. You may keep a minimal User Interface.
 3. The algorithm used for reducing number of transactions doesn't need to be optimal.
 4. Bonus for adding expense categories and bill picture upload.
+
 
 ## Task ID: Department Website Revamp
 
