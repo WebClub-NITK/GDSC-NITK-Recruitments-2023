@@ -15,7 +15,9 @@
 | [Chrome Tabs Organiser](#task-id-chrome-tabs-organiser)     |
 | [VoicePen](#task-id-voicepen)                               |
 | [WebClub Discord ChatBot](#task-id-webclub-discord-chatbot) |
-| [SportsTracker](#task-id-sportstracker) |
+| [SportsTracker](#task-id-sportstracker)                     |
+| [Splitwise Clone](#task-id-splitwise-clone)                 |
+
 
 ## Task ID: NFT Minter
 
@@ -189,7 +191,7 @@ Follow the steps below to complete this challenge:
 
 ## Task ID: SportsTracker
 
-#### `APIs`, `web development`, `UI/UX`
+#### `APIs`, `Web Development`, `App Development`, `UI/UX`
 
 
 Mentors: [Fahim Ahmed](https://github.com/ahmedfahim21) ([+91 8861054452](https://wa.me/918861054452)), [Muthukumar](https://github.com/BenzeneAlcohol) ([+91 8921472523](https://wa.me/8921472523))
@@ -228,4 +230,42 @@ In short, the application should allow users to:
 1. Explore the SportRadar API using the Postman collection provided in the Documentation.
 2. Try to make it for a single sport first, you may then try having multiple sports.
 3. Focus should be on building a good User Interface. Try to have charts, tables, logos, etc.
+
+
+## Task ID: Splitwise Clone
+
+#### `Web Development` `App Development`  `Low Level Design`
+
+Mentors: [@Muthukumar](https://github.com/BenzeneAlcohol) (+91 8921472523), [@Harshit](https://github.com/hgupta12) (+91 8583905686)
+
+Tag: `Hard`
+
+### Description
+
+Your task is to build a Splitwise clone (website or mobile app) for users to split expenses and minimize the number of transactions among themselves. You are required to implement the following features -   
+
+**1. User Authentication:** - Users can securely access the application through user registration and login.
+
+**2. Friend Requests:** - Users can send and accept friend requests.
+
+**3. Group Creation and Expense Management:** - Users can create groups and add expenses to them.
+
+**4. Minimal Transactions:** - Users can minimize number of transactions within a group.
+
+**5. Payment Status Tracking:** - Keep users informed about payment statuses (paid or unpaid).
+
+
+### Useful resources:
+
+These links might give you a direction
+- [Debt Simplification Algorithm](https://dash.harvard.edu/bitstream/handle/1/38811480/YAO-SENIORTHESIS-2017.pdf?sequence=3)
+- [Low Level Design of Splitwise](https://youtu.be/6UeDb7ORVPI?si=kftUOqWANzHRc_Gd)
+- [Algorithm Behind Splitwise](https://medium.com/@mithunmk93/algorithm-behind-splitwises-debt-simplification-feature-8ac485e97688)
+
+### Tips
+
+1. You dont have to implement the backend from scratch (you can use Firebase or any other BaaS).
+2. You may keep a minimal User Interface.
+3. The algorithm used for reducing number of transactions doesn't need to be optimal.
+4. Bonus for adding expense categories and bill picture upload.
 
