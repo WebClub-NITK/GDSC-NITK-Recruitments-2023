@@ -23,9 +23,9 @@
 | [GitHub GraphQL API](#task-id-github-profile-using-graphql-api)|
 | [CollabPro](#task-id-collabpro)        |
 | [Space Exploration App](#task-id-space-exploration-app)|
-
 | [Department Website Revamp](#task-id-department-website-revamp) |
 | [Random Character Generator](#task-id-random-avatar-generator)|
+| [Meme Feed](#task-id-meme-feed)                             |
 
 ## Task ID: NFT Minter
 
@@ -541,3 +541,52 @@ These links might give you a direction
 2. The task will be considered as `Medium` if user authentication and rate limiting is implemented. 
 3. Don't directly copy the implementation given in resources.
 4. Brownie points for using the generator for the [NFT Minter](#task-id-nft-minter) task.
+
+## Task ID: Meme Feed
+#### `Web Development`, `Frontend Development`, `Backend Development`, `API Integration`
+
+Mentors: [@Abhiraj](https://github.com/abhiraj-mengade) (+91 7709439025), [@Vignaraj](https://github.com/Vignaraj-pai) (+91 6366217217)
+
+Tag: `Hard`
+
+### Description
+Create a meme feed application. Users should be able to login to the website and create simple memes and save them in their personal library, with options to publish their memes, like and follow other creators.
+
+### Tasks
+   - Implement a user interface for meme generation using the meme generator API. Users should be able to choose images, add text, and customize their memes.
+   - Develop a backend server to handle user requests and interactions with the meme generator API.
+   - Integrate an external meme generator API (e.g., Imgflip API) for meme generation.
+   - Implement user authentication and authorization features.
+
+   **User Features**
+   - Allow users to register and log in to the application.
+   - Create a personal meme library where users can save their created memes.
+   - Enable users to publish their memes to a shared meme feed.
+   - Implement features for editing and deleting memes.
+
+**NOTE:** The task is to implementation all the features rather than the UI/UX. The task will be graded as `hard` only if the final system is a social media feed for memes.
+
+**Bonus Features**
+- AI integration to images to generate memes from.
+- Weekly meme challenges, where users can submit a meme and upvote other memes, with some ponts system as rewards, example: Reddit Karmas.
+
+### API Options
+You can use the following meme generator API for this project:
+- [Imgflip API](https://imgflip.com/api): Provides popular memes and meme generation capabilities.
+- [Meme Generator API](https://memegen.link/api/): Provides popular memes and meme generation capabilities.
+
+### Useful Resources
+- [Django](https://www.djangoproject.com/): Backend development framework.
+- [React.js](https://reactjs.org/): Frontend development library.
+- [Next.js](https://nextjs.org/): Frontend development framework.
+- [Tailwind CSS](https://tailwindcss.com/): Frontend development framework.
+- [Bootstrap](https://getbootstrap.com/): Frontend development framework.
+- [Express.js](https://expressjs.com/): Backend development framework.
+- [Vercel](https://vercel.com): Frameworks and Templates.
+
+### Tips
+1. Choose any language or technology stack you're comfortable with.
+2. Focus on implementing the features than on the UI.
+3. Ensure data security by implementing proper authentication and authorization mechanisms.
+4. Test the application thoroughly to ensure it works smoothly.
+5. Document your code and project structure for future reference.
