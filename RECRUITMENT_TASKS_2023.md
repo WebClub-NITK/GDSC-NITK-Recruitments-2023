@@ -16,11 +16,9 @@
 | [VoicePen](#task-id-voicepen)                               |
 | [WebClub Discord ChatBot](#task-id-webclub-discord-chatbot) |
 | [Splitwise Clone](#task-id-splitwise-clone)|
-| [Space Exploration App](#task-id-space-exploration-app)|
-=======
 | [SportsTracker](#task-id-sportstracker)                     |
 | [Leetcode Clone](#task-id-leetcode-clone)                   |
-| [Splitwise Clone](#task-id-splitwise-clone)                 |
+| [Space Exploration App](#task-id-space-exploration-app)|
 
 ## Task ID: NFT Minter
 
