@@ -244,23 +244,17 @@ Difficulty: `Hard`
 
 ### Description
 
-Build a real-time collaboration based productivity application that is creative, innovative, and useful. The application  should be able to solve a real-world problem or make people's lives easier.
+Build a real-time collaboration based productivity application that is creative, innovative, and useful. The application should be able to solve a real-world problem or make people's lives easier. From a shared To-Do List to sophisticated platforms akin to Google Jamboard and Notion, the possibilities for collaborative productivity are vast and exciting.
 
-Follow the steps below to complete this challenge:
+Follow the steps below to complete this challenge:  
 
-1. Come up with a unique and innovative idea for a real-time collaboration based productivity application .
-2. Design a user interface and user experience that is both visually appealing and easy to use.
-3. Allow users to give and receive feedback on each other's work in real time.
-4. Implement Authentication and Registration.
+1. Come up with a unique and innovative idea for a real-time collaboration based productivity application.  
+2. Design a user interface and user experience that is both visually appealing and easy to use.  
+3. Implement Authentication and Registration.  
 
 ### Bonus Feature(s):
-1. Implement Role Based Access Control where you define the following roles with their permissions.     
-Admin:  
-Delete activities by member.  
-Can remove members.  
-Send and receive messages.  
-Member:    
-Send and receive messages.  
+1. Implement Role Based Access Control.         
+2. Allow users to give and receive feedback on each other's work in real time.
 
 ### Useful resources:
 These links might give you a direction
@@ -273,4 +267,4 @@ These links might give you a direction
 
 1. You are free to use any language/technology/framework of your choice.  
 2. Focus on creating a visually appealing user interface.  
-3. Implementing the bonus features would result in bonus points.   
+3. Implementing the bonus features would result in bonus points.     
