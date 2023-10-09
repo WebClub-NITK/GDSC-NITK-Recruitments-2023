@@ -188,7 +188,7 @@ Follow the steps below to complete this challenge:
 
 ## Task ID: Splitwise Clone
 
-#### `web development` `app development`  `low level design`
+#### `Web Development` `App Development`  `Low Level Design`
 
 Mentors: [@Muthukumar](https://github.com/BenzeneAlcohol) (+91 8921472523), [@Harshit](https://github.com/hgupta12) (+91 8583905686)
 
