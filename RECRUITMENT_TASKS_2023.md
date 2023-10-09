@@ -16,7 +16,7 @@
 | [VoicePen](#task-id-voicepen)                               |
 | [WebClub Discord ChatBot](#task-id-webclub-discord-chatbot) |
 | [Splitwise Clone](#task-id-splitwise-clone)|
-| [AnimeCanvas](#task-id-animecanvas)|
+| [Space Exploration App](#task-id-space-exploration-app)|
 
 ## Task ID: NFT Minter
 
@@ -225,9 +225,9 @@ These links might give you a direction
 4. Bonus for adding expense categories and bill picture upload.
 
 
-## Task ID: AnimeCanvas
+## Task ID: Space Exploration App
 
-#### `Front-End Web Development`, `APIs`
+#### `Front-End Web Development`, `APIs`, `Svelte`
 
 Mentors: [@Anshuman](https://github.com/anshumanNitk) (+91 9175954118),  [@Parth Mittal](https://github.com/mittal-parth) (+91 94113 27838)
 
@@ -235,32 +235,28 @@ Tag: `Easy`
 
 ### Description
 
-Anime enthusiasts are always looking for high-quality wallpapers to display their love for their favorite series and characters. However, finding wallpapers that fulfill their quality and variety standards might be difficult. Furthermore, finding new and fascinating anime programs to watch is sometimes left to chance or word-of-mouth recommendations.Develop a web application that addresses these challenges by providing anime enthusiasts with a platform where they can easily access wallpapers while discovering the new anime.
+The ExploreSpace project aims to bring the wonders of space exploration closer to individuals by providing an immersive and educational experience through a web application.your mission is to design and develop a web application using **Svelte** that offers users an opportunity to explore space, access astronomical data and stay informed.The project should place a high emphasis on user interface (UI) and user experience (UX) design to ensure that users have an entertaining and informative experience.
 
 Follow the steps below to complete this challenge:
 
-1. Use anime-related APIs to get a large collection of anime wallpapers. Ensure that the application's wallpaper library is constantly updated in order to provide fresh and appealing content.
-2. Implement intuitive search and filtering options, allowing users to browse wallpapers by series, genre, resolution, and popularity.
-3. Leverage anime APIs to provide personalized top anime series recommendations to users along with ratings, also recommend random anime.
-4. Create an attention-grabbing landing page that showcases high-quality anime wallpapers and top anime recommendations prominently.
+1. Create an eye-catching landing page, Prioritize a user-friendly experience with intuitive navigation and engaging visuals.
+2. Add a search bar to show a curated collection of photographs retrieved from NASA's API or any other API of your choice.
+3. Integrate the NASA Near-Earth Object (NEO) API to provide real-time data about asteroids, their orbits, and potential near-Earth encounters.
+4. utilizing your preferred API Curate informative articles and descriptions of space missions and astronomical objects.
 
 ### Useful resources:
 
 These links might give you a direction:
 
-- [Jikan](https://jikan.moe/)
-- [AniDB](https://wiki.anidb.net/HTTP_API_Definition)
-
-Front-end Frameworks: 
-
-- [Getting Started with ReactJS](https://react.dev/)
+- [NASA APIs](https://api.nasa.gov/)
+- [SpaceX APIs](https://docs.spacexdata.com/)
+- [List of Space APIs you can use](https://nordicapis.com/11-space-apis-because-space-is-neat/)
 - [Getting Started with Svelte](https://react.dev/)
 
 ### Tips
 
-1. You are not limited by any language or technology.
-2. The primary focus is on the UI.
-3. Integration and effective use of anime-related APIs.
+1. The primary focus is on the UI.
+2. Start by investigating the NASA APOD, NEO, and any other space-related APIs you intend to use. Recognize their endpoints, data formats, and information retrieval techniques.
 4. Documentation quality.
 
 
