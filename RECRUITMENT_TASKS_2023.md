@@ -15,6 +15,7 @@
 | [Chrome Tabs Organiser](#task-id-chrome-tabs-organiser)     |
 | [VoicePen](#task-id-voicepen)                               |
 | [WebClub Discord ChatBot](#task-id-webclub-discord-chatbot) |
+| [Splitwise Clone](#task-id-splitwise-clone)|
 | [CollabPro](#task-id-collabpro)        |
 
 ## Task ID: NFT Minter
@@ -186,7 +187,45 @@ Follow the steps below to complete this challenge:
 2. Any useful additional/interesting feature will have bonus points.
 3. Explore using frameworks to make LLM-powered bots over your dataset.
 
+## Task ID: Splitwise Clone
+
+#### `Web Development` `App Development`  `Low Level Design`
+
+Mentors: [@Muthukumar](https://github.com/BenzeneAlcohol) (+91 8921472523), [@Harshit](https://github.com/hgupta12) (+91 8583905686)
+
+Tag: `Hard`
+
+### Description
+
+Your task is to build a Splitwise clone (website or mobile app) for users to split expenses and minimize the number of transactions among themselves. You are required to implement the following features -   
+
+**1. User Authentication:** - Users can securely access the application through user registration and login.
+
+**2. Friend Requests:** - Users can send and accept friend requests.
+
+**3. Group Creation and Expense Management:** - Users can create groups and add expenses to them.
+
+**4. Minimal Transactions:** - Users can minimize number of transactions within a group.
+
+**5. Payment Status Tracking:** - Keep users informed about payment statuses (paid or unpaid).
+
+
+### Useful resources:
+
+These links might give you a direction
+- [Debt Simplification Algorithm](https://dash.harvard.edu/bitstream/handle/1/38811480/YAO-SENIORTHESIS-2017.pdf?sequence=3)
+- [Low Level Design of Splitwise](https://youtu.be/6UeDb7ORVPI?si=kftUOqWANzHRc_Gd)
+- [Algorithm Behind Splitwise](https://medium.com/@mithunmk93/algorithm-behind-splitwises-debt-simplification-feature-8ac485e97688)
+
+### Tips
+
+1. You dont have to implement the backend from scratch (you can use Firebase or any other BaaS).
+2. You may keep a minimal User Interface.
+3. The algorithm used for reducing number of transactions doesn't need to be optimal.
+4. Bonus for adding expense categories and bill picture upload.  
+
 ## Task ID: CollabPro
+
 #### `Sockets`, `Full Stack Web Development`
 
 Mentors: [Tarun S Hegde](https://github.com/tarun-hegde) ([+91 7899719314](https://wa.me/7899719314)), [Pranav Agarwal](https://github.com/pranav2305) ([+91 8867137015](https://wa.me/8867137015))
@@ -219,4 +258,3 @@ These links might give you a direction
 1. You are free to use any language/technology/framework of your choice.  
 2. Focus on creating a visually appealing user interface.  
 3. Implementing the bonus features would result in bonus points.     
-3. Implementing the bonus features would result in bonus points.   
