@@ -16,7 +16,7 @@
 | [VoicePen](#task-id-voicepen)                               |
 | [WebClub Discord ChatBot](#task-id-webclub-discord-chatbot) |
 | [Splitwise Clone](#task-id-splitwise-clone)|
-| [AnimeCanvas](#task-id-splitwise-clone)|
+| [AnimeCanvas](#task-id-animecanvas)|
 
 ## Task ID: NFT Minter
 
@@ -226,6 +226,7 @@ These links might give you a direction
 
 
 ## Task ID: AnimeCanvas
+
 #### `Front-End Web Development`, `APIs`
 
 Mentors: [@Anshuman](https://github.com/anshumanNitk) (+91 9175954118),  [@Parth Mittal](https://github.com/mittal-parth) (+91 94113 27838)
