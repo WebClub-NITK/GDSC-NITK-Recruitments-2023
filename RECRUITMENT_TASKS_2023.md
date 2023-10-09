@@ -19,6 +19,7 @@
 | [Leetcode Clone](#task-id-leetcode-clone)                   |
 | [Splitwise Clone](#task-id-splitwise-clone)                 |
 | [File Manager](#task-id-file-manager)                       |
+| [GitHub GraphQL API](#task-id-github-profile-using-graphql-api)|
 
 
 ## Task ID: NFT Minter
@@ -312,6 +313,49 @@ These links might give you a direction
 4. Bonus for adding expense categories and bill picture upload.
 
 
+
+## Task ID: GitHub Profile using GraphQL API
+
+#### `GitHub API` `GraphQL` `Frontend`
+
+Mentors: [@Vedant Tarale](https://github.com/VedantTarale) (+91 8106713107), [@Anirudh Prabhakaran](https://github.com/anirudhprabhakaran3) (+91 8826767787)
+
+Tag: `Medium`
+
+### Description
+ 
+The task requires you to build a web interface from users to enter a GitHub IDs and retrive the account statistics which could include the following details -
+
+- **User Deatils** 
+
+- **Most Recent Repos**
+
+- **Commit History** 
+
+- **Heatmaps or Graphs**
+
+The frontend of the application can be developed using any framework of your choice.
+
+**Note:** Your implementation need not be limited to the above statistics. Feel
+free to explore the [GitHub GraphQL API](https://docs.github.com/graphql) for more info.
+
+**NOTE:** You are required to strictly use a **GraphQL API** for this task.
+
+### Useful resources:
+
+These links might give you a direction
+- [GitHub GraphQL API](https://docs.github.com/graphql)
+- [GitHub Guide to using GraphQL](https://docs.github.com/en/graphql/guides/introduction-to-graphql)
+- [Learn GraphQL - Official Site](https://graphql.org/learn/)
+- [ReactJS Documentation](https://react.dev/learn)
+- [TailwindCSS Documentation](https://tailwindcss.com/docs/installation)
+### Tips
+
+1. You can use any CSS framework of your liking.
+2. UI/UX should be well designed.
+3. Bonus for making the application responsive.
+
+
 ## Task ID: File Manager
 
 #### `Desktop Application`
@@ -364,3 +408,4 @@ Framework Documentations:
 - Consider using any frameworks or technologies like Electron, Tauri, JavaFX, Qt, GTK or any other that suits your programming skills and preferences.
 - Leverage existing libraries and tools that can simplify certain tasks.
 - Try to keep minimal UI and focus on the functionality of the application.
+
