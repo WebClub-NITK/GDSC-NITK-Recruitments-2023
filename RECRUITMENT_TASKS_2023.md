@@ -585,6 +585,43 @@ You can use the following meme generator API for this project:
 4. Test the application thoroughly to ensure it works smoothly.
 5. Document your code and project structure for future reference.
 
+## Task ID: MediTracker
+
+#### `Mobile App Development`  `Google ML Kit` `Calendar Integration`
+
+Mentors: [@Shashank SM](https://github.com/Shash0501) (+91 93804 35605), [@Abhishek Satpathy](https://github.com/AbhishekSatpathy4848) (+91 7619503901)
+
+Tag: `Easy-Medium`
+
+### Description
+
+Build a mobile app for users to scan and effectively manage their medical prescriptions.
+
+**1. Text Extraction:** Extract relevant information from the scanned prescription, including:
+- Medicine name(s)
+- Time when the medicine is to be taken
+- Number of times each medicine should be taken
+
+**2. Calendar Integration:** Create calendar events for each prescription, incorporating the extracted information. Ensure that these events are properly scheduled based on the specified times and frequencies. These timely notifications remind the user to take their medication.
+
+**3. User-Friendly Interface:** Design an intuitive, appealing and user-friendly interface.
+
+**4. CRUD Operations:** Enable users to also manually add, edit, and delete medicines and their corresponding details within each prescription.
+
+### Useful resources:
+- [Recognize text in images with ML Kit in JAVA/Kotlin](https://developers.google.com/ml-kit/vision/text-recognition/v2/android)
+- [ML Kit Text Recognition Flutter Package](https://pub.dev/packages/google_mlkit_text_recognition)
+- [Calendar Provider API for JAVA/Kotlin](https://developer.android.com/guide/topics/providers/calendar-provider)
+- [Flutter package for calendar integration](https://pub.dev/packages/add_2_calendar)
+
+### Tips
+
+1. You can either build a Native mobile application for Android/iOS or a Cross-Platform application.
+2. Any useful additional/interesting feature will have bonus points.
+3. You can assume the prescription to be printed (not handwritten) on paper. 
+4. **BONUS:** User login can also be incorporated, allowing users to synchronize their prescriptions across multiple devices.
+5. **BONUS:** The app can also scan and detect hand-written prescriptions. 
+
 ## Task ID: Intelligent AutoZoom Camera
 
 #### `Mobile App Development`, `Google MLKit`
