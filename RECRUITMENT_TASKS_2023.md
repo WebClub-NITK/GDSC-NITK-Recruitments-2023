@@ -1,7 +1,7 @@
 # Tasks
 
 - It is perfectly fine if you have no experience in the field and trying it out for the first time. Please put in sincere efforts and try to learn from whatever you complete!
-- Each Task has a ID, tags, mentor, description, tips and useful resources
+- Each Task has an ID, tags, mentor, description, tips and useful resources
 - You can refer to the resources put up in each task to understand the concepts required to complete the task.
 - Feel free to reach out to the mentors for any assistance you need.
 - Mention the Task ID attempted in the README of your private GitHub repository.
@@ -31,17 +31,17 @@
 
 #### `Blockchain`, `Web3`, `NFT`, `Ethereum`
 
-Mentors: [Mardav Gandhi](https://github.com/marcdhi) ([+91 9033398366](https://wa.me/919033398366)), [Ayush Kumar](https://github.com/ayush4345) ([+91 9334352548](https://wa.me/919334352548)), [Parth Mittal](https://github.com/mittal-parth) ([+91 9411327838](https://wa.me/919411327838)),
+Mentors: [Mardav Gandhi](https://github.com/marcdhi) ([+91 9033398366](https://wa.me/919033398366)), [Ayush Kumar](https://github.com/ayush4345) ([+91 9334352548](https://wa.me/919334352548)), [Parth Mittal](https://github.com/mittal-parth) ([+91 9411327838](https://wa.me/919411327838))
 
 Difficulty: `Medium`
 
 ### Description
 
-In this task, you will dive into the world of blockchain and NFTs by minting your very own NFT collection. NFTs are unique digital assets that represent ownership or proof of authenticity of a digital item, such as art, collectibles, or even virtual real estate, using blockchain technology.
+In this task, you will dive into the world of blockchain and NFTs by minting your very own NFT collection. NFTs are unique digital assets that represent ownership or proof of authenticity of a digital item, such as art, collectables, or even virtual real estate, using blockchain technology.
 
 Follow the steps below to complete this challenge:
 
-1. Mint a collection of your favorite television characters. Find images of your favorite television characters, and deploy a smart contract that will mint an NFT for each character.
+1. Mint a collection of your favourite television characters. Find images of your favorite television characters and deploy a smart contract that will mint an NFT for each character.
 2. Set a maximum limit of 3000 NFTs for your collection.
 3. Implement functionality to allow the owner of an NFT to change its image.
 
@@ -69,20 +69,20 @@ These links might give you a direction
 
 Mentors: [Mardav Gandhi](https://github.com/marcdhi) ([+91 9033398366](https://wa.me/919033398366)), [Parth Mittal](https://github.com/mittal-parth) ([+91 9411327838](https://wa.me/919411327838))
 
-Difficulty: `Medium-Hard`
+Difficulty: `Medium`
 
 ### Description
 
-Currently, Chrome offers a built-in feature for grouping tabs, allowing users to manually organize them, assign names, and assign colors. However, in this task, you will be creating a Chrome Extension that automates this process, making tab management more efficient.
+Currently, Chrome offers a built-in feature for grouping tabs, allowing users to organize them manually, assign names, and assign colours. However, in this task, you will be creating a Chrome Extension that automates this process, making tab management more efficient.
 
 Follow the steps below to complete this challenge:
 
 1. Create a Chrome Extension that automatically groups tabs from the same website under a single bar. Ensure that the extension recognizes the context by naming the bar after the visited website or page automatically.
-2. Implement a feature to assign colors to tabs that match the theme of the respective websites for visual organization.
+2. Implement a feature to assign colours to tabs that match the theme of the respective websites for visual organization.
 
 ### Bonus Feature:
 
-Implement context recognition from different websites and then group them together automatically. For example, if the user is browsing `web3` content but from different websites, group all of them under the name of a `web3` tab with a default color.
+Implement context recognition from different websites and then group them together automatically. For example, if the user is browsing `web3` content but from different websites, group all of them under the name of a `web3` tab with a default colour.
 **NOTE**: Implementing this feature would result in this task being treated as a `Hard` task.
 
 ### Useful resources:
@@ -105,7 +105,7 @@ These links might give you a direction
 
 Mentors: [Mardav Gandhi](https://github.com/marcdhi) ([+91 9033398366](https://wa.me/919033398366)), [Parth Mittal](https://github.com/mittal-parth) ([+91 9411327838](https://wa.me/919411327838))
 
-Difficulty: `Medium-Hard`
+Difficulty: `Medium`
 
 ### Description
 
@@ -115,7 +115,7 @@ Follow the steps below to complete this challenge:
 
 1. Implement easy recording functionality, allowing users to start recording by clicking a button on the screen.
 2. On submitting, the application should transcribe spoken words into text, eliminating repeated content, filler words, and restructuring the text for readability.
-3. Use Text Summarisation API's to structure the above generated text into certain format, using prompt engineering if needed.
+3. Use Text Summarisation APIs to structure the above generated text into a certain format, using prompt engineering if needed.
 4. The final output should be the prettified text.
 
 Note: The focus here is not the UI or the ML model. The UI can be kept relatively simple. The feature set can also be kept minimal by skipping authentication, state saving, etc. The usage of readily available APIs is encouraged and preferred over ML techniques.
@@ -126,7 +126,7 @@ Note: The focus here is not the UI or the ML model. The UI can be kept relativel
 2. Enable file uploads, where users can upload audio files and text notes for transcription and rewriting.
 3. Implement custom styles, allowing users to define writing styles, including a custom style that mimics their own writing style (use API's like GPT-3.5)
 
-**NOTE**: Implementing any one the above features would be sufficient, and would result in this task being treated as a `Hard` task.
+**NOTE**: Implementing any of the above features would be sufficient, resulting in this task being treated as a `Hard` task.
 
 ### Useful resources:
 
@@ -145,7 +145,7 @@ These links might give you a direction
 
 1. Start by exploring existing speech recognition libraries and APIs to handle voice input.
 2. Leverage summarization APIs to enhance the text quality without the need for complex machine learning models.
-3. Ensure that the final output is not only clear but also maintains the core content and meaning from the original voice input.
+3. Ensure that the final output is clear and maintains the core content and meaning from the original voice input.
 
 ## Task ID: WebClub Discord ChatBot
 
@@ -159,12 +159,12 @@ Tag: `Medium`
 
 Discord is a popular communication platform designed for creating communities. Gamers widely use it, but it's also a versatile tool for various interest groups, businesses, and developers. A Discord bot is a software application that automates tasks within Discord servers. They can be used for moderation, utilities, games, or music playback, enhancing server functionality.
 
-In this task, you are expected to create an interactive Discord bot that displays information about [Web Enthusiasts' Club](https://webclub.nitk.ac.in/) like following things should be covered :
+In this task, you are expected to create an interactive Discord bot that displays information about [Web Enthusiasts' Club](https://webclub.nitk.ac.in/). The following things should be covered:
 - Informing about Upcoming Events of WEC
 - Information on SIGs
-- Past Events in each SIGs
+- Past Events in each SIG
 - Non Technical Events
-- Information on Members
+- Information of Members
 
  Users should be able to access the information by using commands, just like how it is done in bots like mee6 and arcane. You can explore the discords bot [here](https://top.gg/).
 
@@ -182,10 +182,8 @@ Follow the steps below to complete this challenge:
 
 ### Useful resources:
 
-- [Build a Discord Bot With Python
-  ](https://betterprogramming.pub/coding-a-discord-bot-with-python-64da9d6cade7)
-- [Building your first Discord app
-  ](https://discord.com/developers/docs/getting-started)
+- [Build a Discord Bot With Python](https://betterprogramming.pub/coding-a-discord-bot-with-python-64da9d6cade7)
+- [Building your first Discord app](https://discord.com/developers/docs/getting-started)
 - [Supabase](https://supabase.com/)
 - [Building a CRUD App with Supabase and Express](https://medium.com/@heshramsis/building-a-crud-app-with-supabase-and-express-a-step-by-step-guide-for-junior-developers-81456b850910)
 - [Embedchain is a framework to create LLM-powered bots over any dataset](https://github.com/embedchain/embedchain)
@@ -204,24 +202,22 @@ Follow the steps below to complete this challenge:
 
 Mentors: [@Fahim Ahmed](https://github.com/ahmedfahim21) ([+91 8861054452](https://wa.me/918861054452)), [@Muthukumar](https://github.com/BenzeneAlcohol) ([+91 8921472523](https://wa.me/8921472523))
 
-
 Difficulty: `Easy`
-
 
 ### Description
 
-Your task is to build a website or a mobile app that allows users to track their favorite sports teams. This application will use the [SportRadar API](https://developer.sportradar.com/docs/read/Home#getting-started) to collect schedules, results, and other information about the user's favourite sports teams. 
+Your task is to build a website or a mobile app that allows users to track their favourite sports teams. This application will use the [SportRadar API](https://developer.sportradar.com/docs/read/Home#getting-started) to collect schedules, results, and other information about the user's favourite sports teams. 
 
 Follow the steps below to complete this challenge:
 
 1. Develop a responsive frontend using any framework of your choice.
 2. Use the SportRadar API to fetch data about sports teams, including schedules, match results, team details, etc.
-3. Store user data like their favorite teams in browser cookies/local storage(so,no need to use database).
+3. Store user data like their favourite teams in browser cookies/local storage(so there is no need to use a database).
 
 In short, the application should allow users to:
    - Search for sports teams using the SportRadar API.
-   - Add and remove sports teams from their list of favorites.
-   - View detailed information about their favorite teams, including schedules, match results, points table, players, etc
+   - Add and remove sports teams from their list of favourites.
+   - View detailed information about their favourite teams, including schedules, match results, points table, players, etc
 
 ### Useful Resources
 
@@ -232,8 +228,8 @@ In short, the application should allow users to:
 ### Tips
 
 1. Explore the SportRadar API using the Postman collection provided in the Documentation.
-2. Try to make it for a single sport first, you may then try having multiple sports.
-3. Focus should be on building a good User Interface. Try to have charts, tables, logos, etc.
+2. Try to make it for a single sport first; you may then try having multiple sports.
+3. The focus should be on building a good User Interface. Try to have charts, tables, logos, etc.
 
 
 
@@ -242,11 +238,11 @@ In short, the application should allow users to:
 
 Mentors:  [@Shubham-Rasal](https://github.com/Shubham-Rasal) (+91 7349784770),  [@sujay000](https://github.com/sujay000) (+91 94219 68047)
 
-Tag: `Hard`?
+Tag: `Hard`
 
 ### Description
 
-Create a simple leetcode clone that allows to users to create account and then solve preset problems in more than one programming language
+Create a simple [Leetcode](https://leetcode.com/) clone that allows users to create an account and then solve preset problems in more than one programming language.
 
 ### Tasks
 1. **Frontend Development**
@@ -257,7 +253,7 @@ Create a simple leetcode clone that allows to users to create account and then s
 2. **Backend Development**
    - Develop a backend that is responsible for handling user requests
    - Functionality includes authentication and user data storage.
-   - The most important feature is to incorporate a code execution engine which will be responsible for executing the user-submitted code, comparing results, and returning the output.
+   - The most important feature is to incorporate a code execution engine, which will be responsible for executing the user-submitted code, comparing results, and returning the output.
    - This code execution feature can be built from scratch or can be done by using existing APIs (recommended).
 
 ### API Options
@@ -276,13 +272,13 @@ You can use the following meme generator API for this project:
 
 ### Tips
 1. Use Postman API request code gen feature to speed up development
-2. Use Baas (Backend as a service like firebase or supabase) to offload critical parts of the system
+2. Use Baas (Backend as a service like Firebase or Supabase) to offload critical parts of the system
 3. Making a rough workflow or system design diagram before starting can be really helpful
 
 
 ## Task ID: Splitwise Clone
 
-#### `Web Development` `App Development`  `Low Level Design`
+#### `Web Development` `App Development`  `Low-Level Design`
 
 Mentors: [@Muthukumar](https://github.com/BenzeneAlcohol) (+91 8921472523), [@Harshit](https://github.com/hgupta12) (+91 8583905686)
 
@@ -298,7 +294,7 @@ Your task is to build a Splitwise clone (website or mobile app) for users to spl
 
 **3. Group Creation and Expense Management:** - Users can create groups and add expenses to them.
 
-**4. Minimal Transactions:** - Users can minimize number of transactions within a group.
+**4. Minimal Transactions:** - Users can minimize the number of transactions within a group.
 
 **5. Payment Status Tracking:** - Keep users informed about payment statuses (paid or unpaid).
 
@@ -307,14 +303,14 @@ Your task is to build a Splitwise clone (website or mobile app) for users to spl
 
 These links might give you a direction
 - [Debt Simplification Algorithm](https://dash.harvard.edu/bitstream/handle/1/38811480/YAO-SENIORTHESIS-2017.pdf?sequence=3)
-- [Low Level Design of Splitwise](https://youtu.be/6UeDb7ORVPI?si=kftUOqWANzHRc_Gd)
+- [Low-Level Design of Splitwise](https://youtu.be/6UeDb7ORVPI?si=kftUOqWANzHRc_Gd)
 - [Algorithm Behind Splitwise](https://medium.com/@mithunmk93/algorithm-behind-splitwises-debt-simplification-feature-8ac485e97688)
 
 ### Tips
 
-1. You dont have to implement the backend from scratch (you can use Firebase or any other BaaS).
+1. You don't have to implement the backend from scratch (you can use Firebase or any other BaaS).
 2. You may keep a minimal User Interface.
-3. The algorithm used for reducing number of transactions doesn't need to be optimal.
+3. The algorithm used for reducing the number of transactions doesn't need to be optimal.
 4. Bonus for adding expense categories and bill picture upload.  
 
 ## Task ID: CollabPro
@@ -327,17 +323,17 @@ Difficulty: `Hard`
 
 ### Description
 
-Build a real-time collaboration based productivity application that is creative, innovative, and useful. The application should be able to solve a real-world problem or make people's lives easier. From a shared To-Do List to sophisticated platforms akin to Google Jamboard and Notion, the possibilities for collaborative productivity are vast and exciting.
+Build a real-time collaboration-based productivity application that is creative, innovative, and useful. The application should be able to solve a real-world problem or make people's lives easier. From a shared To-Do List to sophisticated platforms akin to Google Jamboard and Notion, the possibilities for collaborative productivity are vast and exciting.
 
 Follow the steps below to complete this challenge:  
 
-1. Come up with a unique and innovative idea for a real-time collaboration based productivity application.  
+1. Come up with a unique and innovative idea for a real-time collaboration-based productivity application.  
 2. Design a user interface and user experience that is both visually appealing and easy to use.  
 3. Implement Authentication and Registration.  
 
 ### Bonus Feature(s):
-1. Implement Role Based Access Control.         
-2. Allow users to give and receive feedback on each other's work in real time.
+1. Implement Role-Based Access Control.         
+2. Allow users to give and receive feedback on each other's work in real-time.
 
 ### Useful resources:
 These links might give you a direction
@@ -353,7 +349,6 @@ These links might give you a direction
 3. Implementing the bonus features would result in bonus points.     
 
 
-
 ## Task ID: GitHub Profile using GraphQL API
 
 #### `GitHub API` `GraphQL` `Frontend`
@@ -364,7 +359,7 @@ Tag: `Medium`
 
 ### Description
  
-The task requires you to build a web interface from users to enter a GitHub IDs and retrive the account statistics which could include the following details -
+The task requires you to build a web interface for users to enter a GitHub ID and retrieve the account statistics, which could include the following details:
 
 - **User Deatils** 
 
@@ -410,20 +405,20 @@ Desktop applications are software programs that are designed to run on individua
 
 There are several frameworks and technologies used for desktop application development, each with its own strengths and characteristics.
 Some of the popular ones are:
-- Electron (used by editors like VS Code and Atom)
-- Tauri ( Rust based toolchain for creating desktop apps using common web frameworks )
-- JavaFX (cross platform Java library, successor to Java SWING)
-- Qt (the framework behind the KDE suite )
-- GTK (the most common linux framework, employed by GNOME, MATE, XFCE and almost all non-KDE descendents)
+- [Electron](https://www.electronjs.org/) (used by editors like VS Code and Atom)
+- [Tauri](https://tauri.app/) (Rust-based toolchain for creating desktop apps using common web frameworks )
+- [JavaFX](https://openjfx.io/) (cross-platform Java library, successor to Java SWING)
+- [Qt](https://www.qt.io/) (the framework behind the KDE suite )
+- [GTK](https://www.gtk.org/) (the most common Linux framework, employed by GNOME, MATE, XFCE and almost all non-KDE descendants)
 
 
 In this task, you need to build a simple file manager that allows users to organize, view, and manipulate files and folders on their computer.
 
 Implement a GUI application with the common features found in file managers:
 1. Support for basic file and folder operations such as creating, deleting, copying, and renaming files and folders.
-2. Easy access to information about files and folders like size, type, date created, date modified, permissions (the Properties dialog box basically).
-3. The quick access pane - the pane which shows your library folders (documents, downloads etc), attached devices, etc for easy navigation. 
-4. Graceful error handling - appropriate dialog boxes for say a failed operation (due to lack of permissions).
+2. Easy access to information about files and folders like size, type, date created, date modified, and permissions (the Properties dialogue box, basically).
+3. The quick access pane - the pane which shows your library folders (documents, downloads), attached devices, etc, for easy navigation. 
+4. Graceful error handling - appropriate dialogue boxes for, say, a failed operation (due to lack of permissions).
 
 Feel free to implement any other features that you find on your preferred file manager! 
 
@@ -454,20 +449,20 @@ Framework Documentations:
 
 #### `Front-End Web Development`, `APIs`, `Svelte`
 
-Mentors: [@Anshuman](https://github.com/anshumanNitk) (+91 9175954118),  [@Parth Mittal](https://github.com/mittal-parth) (+91 94113 27838)
+Mentors: [@Anshuman](https://github.com/anshumanNitk) ([+91 9175954118](https://wa.me/919175954118)), [Parth Mittal](https://github.com/mittal-parth) ([+91 9411327838](https://wa.me/919411327838))
 
 Tag: `Easy`
 
 ### Description
 
-The ExploreSpace project aims to bring the wonders of space exploration closer to individuals by providing an immersive and educational experience through a web application.your mission is to design and develop a web application using **Svelte** that offers users an opportunity to explore space, access astronomical data and stay informed.The project should place a high emphasis on user interface (UI) and user experience (UX) design to ensure that users have an entertaining and informative experience.
+This project aims to bring the wonders of space exploration closer to individuals by providing an immersive and educational experience through a web application. Your mission is to design and develop a web application using [**Svelte**](https://svelte.dev/) that promises to provide high performance while being developer friendly. The project should emphasise the UI/UX to ensure that users have an entertaining and informative experience.
 
 Follow the steps below to complete this challenge:
 
-1. Create an eye-catching landing page, Prioritize a user-friendly experience with intuitive navigation and engaging visuals.
-2. Add a search bar to show a curated collection of photographs retrieved from NASA's API or any other API of your choice.
-3. Integrate the NASA Near-Earth Object (NEO) API to provide real-time data about asteroids, their orbits, and potential near-Earth encounters.
-4. utilizing your preferred API Curate informative articles and descriptions of space missions and astronomical objects.
+1. Create an eye-catching landing page, prioritizing a user-friendly experience with intuitive navigation and engaging visuals.
+2. Use any of the APIs mentioned in the resources section to display some information related to space. 
+3. Add an optional search bar.
+4. Any other features are welcome!
 
 ### Useful resources:
 
@@ -476,13 +471,13 @@ These links might give you a direction:
 - [NASA APIs](https://api.nasa.gov/)
 - [SpaceX APIs](https://docs.spacexdata.com/)
 - [List of Space APIs you can use](https://nordicapis.com/11-space-apis-because-space-is-neat/)
-- [Getting Started with Svelte](https://react.dev/)
+- [Getting Started with Svelte](https://svelte.dev/)
+- [Svelete in 100 seconds](https://www.youtube.com/watch?v=rv3Yq-B8qp4)
 
 ### Tips
 
 1. The primary focus is on the UI.
 2. Start by investigating the NASA APOD, NEO, and any other space-related APIs you intend to use. Recognize their endpoints, data formats, and information retrieval techniques.
-
 
 
 ## Task ID: Department Website Revamp
@@ -496,14 +491,14 @@ Tag: `Easy`
 
 ### Description
 
-Your task is to give your Department's website a fresh makeover. The main focus of this task is on the UI/UX aspect. Atleast 5 pages must be implemented. You may implement the website in any framework of your choice or submit a Figma mockup.
-
+Your task is to give your Department's website a fresh makeover. The main focus of this task is on the UI/UX aspect. At least 5 pages must be implemented. You may implement the website in any framework of your choice or submit a Figma mockup.
 
 ### Useful resources:
 
 These links might give you a direction
 - [NITK Departments](https://www.nitk.ac.in/departments-and-centers)
 - [How To Plan A Website Redesign](https://www.altexsoft.com/blog/uxdesign/how-to-plan-a-website-redesign-stages-approaches-principles/)
+- [Figma Tutorial](https://www.youtube.com/watch?v=HZuk6Wkx_Eg)
 
 ### Tips
 
@@ -517,12 +512,12 @@ These links might give you a direction
 Mentors:  [@Parth Mittal](https://github.com/mittal-parth) (+91 9411327838)
 , [@Harshit](https://github.com/hgupta12) (+91 8583905686)
 
-Tag: `Easy-Medium`
+Tag: `Easy`
 
 ### Description
 
 Your task is to create an API that generates random avatars. The following features are required to complete the task - 
-1. The user should be able to generate avatars based on the random string passed to the API endpoint (Example - https://api.dicebear.com/7.x/adventurer-neutral/svg?seed=webclub)
+1. The user should be able to generate avatars based on the random string passed to the API endpoint (Example - `https://api.dicebear.com/7.x/adventurer-neutral/svg?seed=webclub`)
 2. The user should have the option of choosing between different file formats (svg and png).
 3. Create a landing page and getting started guide to help the user.
 
@@ -540,7 +535,7 @@ These links might give you a direction
 1. You can use any language or framework of your choice.
 2. The task will be considered as `Medium` if user authentication and rate limiting is implemented. 
 3. Don't directly copy the implementation given in resources.
-4. Brownie points for using the generator for the [NFT Minter](#task-id-nft-minter) task.
+4. Brownie points for integrating this with the [NFT Minter](#task-id-nft-minter) task.
 
 ## Task ID: Meme Feed
 #### `Web Development`, `Frontend Development`, `Backend Development`, `API Integration`
