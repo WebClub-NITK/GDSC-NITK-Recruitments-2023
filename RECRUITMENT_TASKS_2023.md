@@ -9,22 +9,22 @@
 
 ### Table of contents
 
-| Task                                                        |
-| ----------------------------------------------------------- |
-| [NFT Minter](#task-id-nft-minter)                           |
-| [Chrome Tabs Organiser](#task-id-chrome-tabs-organiser)     |
-| [VoicePen](#task-id-voicepen)                               |
-| [WebClub Discord ChatBot](#task-id-webclub-discord-chatbot) |
-| [SportsTracker](#task-id-sportstracker)                     |
-| [Leetcode Clone](#task-id-leetcode-clone)                   |
-| [Splitwise Clone](#task-id-splitwise-clone)                 |
-| [File Manager](#task-id-file-manager)                       |
-| [GitHub GraphQL API](#task-id-github-profile-using-graphql-api)|
-| [CollabPro](#task-id-collabpro)        |
-| [Space Exploration App](#task-id-space-exploration-app)|
-| [Department Website Revamp](#task-id-department-website-revamp) |
-| [Random Character Generator](#task-id-random-avatar-generator)|
-| [Meme Feed](#task-id-meme-feed)                             |
+| Task                                                        | Difficulty |
+| ----------------------------------------------------------- |------------|
+| [NFT Minter](#task-id-nft-minter)                           | Medium |
+| [Chrome Tabs Organiser](#task-id-chrome-tabs-organiser)     | Medium |
+| [VoicePen](#task-id-voicepen)                               | Medium |
+| [WebClub Discord ChatBot](#task-id-webclub-discord-chatbot) | Medium |
+| [SportsTracker](#task-id-sportstracker)                     | Easy |
+| [Leetcode Clone](#task-id-leetcode-clone)                   | Hard |
+| [Splitwise Clone](#task-id-splitwise-clone)                 | Hard |
+| [File Manager](#task-id-file-manager)                       | Hard |
+| [GitHub GraphQL API](#task-id-github-profile-using-graphql-api)| Medium |
+| [CollabPro](#task-id-collabpro)        | Hard |
+| [Space Exploration App](#task-id-space-exploration-app)| Easy |
+| [Department Website Revamp](#task-id-department-website-revamp) | Easy |
+| [Random Character Generator](#task-id-random-avatar-generator)| Easy |
+| [Meme Feed](#task-id-meme-feed)                             | Hard |
 
 ## Task ID: NFT Minter
 
