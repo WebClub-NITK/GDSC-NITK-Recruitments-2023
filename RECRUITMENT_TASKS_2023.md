@@ -621,3 +621,29 @@ Build a mobile app for users to scan and effectively manage their medical prescr
 3. You can assume the prescription to be printed (not handwritten) on paper. 
 4. **BONUS:** User login can also be incorporated, allowing users to synchronize their prescriptions across multiple devices.
 5. **BONUS:** The app can also scan and detect hand-written prescriptions. 
+
+## Task ID: Intelligent AutoZoom Camera
+
+#### `Mobile App Development`, `Google MLKit`
+
+Mentors: [@Shashank SM](https://github.com/Shash0501) (+91 93804 35605), [@Abhishek Satpathy](https://github.com/AbhishekSatpathy4848) (+91 7619503901)
+
+Tag: `Medium`
+
+### Description
+
+Build a mobile application designed for animal enthusiasts, photographers, and pet owners. This app leverages machine learning to automatically adjust the zoom level when taking pictures of objects, ensuring that the subject (e.g., a dog) is prominently captured even when it's at a distance.
+
+1. The object can be assumed to be a dog. Whenever a dog is detected in the live camera feed, the camera automatically zooms in appropriately to capture a photo.
+2. The user can view all the photos captured from within the app itself.
+
+### Useful resources:
+
+- [Object Detection and Tracking Docs JAVA/Kotlin](https://developers.google.com/ml-kit/vision/object-detection)
+- [Flutter Object Detection and Tracking Package](https://pub.dev/packages/google_mlkit_object_detection)
+
+### Tips
+
+1. Minimal UI is sufficient.
+2. Pre-trained models can also be used rather than using Google's ML Kit.
+3. You can either build a Native mobile application for Android/iOS or a Cross-Platform application.
