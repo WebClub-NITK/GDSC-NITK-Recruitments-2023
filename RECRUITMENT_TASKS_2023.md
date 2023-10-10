@@ -15,7 +15,6 @@
 | [Chrome Tabs Organiser](#task-id-chrome-tabs-organiser)     |
 | [VoicePen](#task-id-voicepen)                               |
 | [WebClub Discord ChatBot](#task-id-webclub-discord-chatbot) |
-| [Splitwise Clone](#task-id-splitwise-clone)|
 | [SportsTracker](#task-id-sportstracker)                     |
 | [Leetcode Clone](#task-id-leetcode-clone)                   |
 | [Splitwise Clone](#task-id-splitwise-clone)                 |
