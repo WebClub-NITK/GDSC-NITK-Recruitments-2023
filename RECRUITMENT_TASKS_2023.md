@@ -25,6 +25,8 @@
 | [Department Website Revamp](#task-id-department-website-revamp) | Easy |
 | [Random Character Generator](#task-id-random-avatar-generator)| Easy |
 | [Meme Feed](#task-id-meme-feed)                             | Hard |
+| [MediTracker](#task-id-meditracker)                             | Medium |
+| [Intelligent AutoZoom Camera](#task-id-intelligent-autozoom-camera)                             | Medium |
 
 ## Task ID: NFT Minter
 
@@ -532,7 +534,7 @@ These links might give you a direction
 ### Tips
 
 1. You can use any language or framework of your choice.
-2. The task will be considered as `Medium` if user authentication and rate limiting is implemented. 
+2. The task will be considered as `Medium` if user authentication and rate limiting are implemented. 
 3. Don't directly copy the implementation given in resources.
 4. Brownie points for integrating this with the [NFT Minter](#task-id-nft-minter) task.
 
@@ -544,7 +546,7 @@ Mentors: [@Abhiraj](https://github.com/abhiraj-mengade) (+91 7709439025), [@Vign
 Tag: `Hard`
 
 ### Description
-Create a meme feed application. Users should be able to login to the website and create simple memes and save them in their personal library, with options to publish their memes, like and follow other creators.
+Create a meme feed application. Users should be able to login to the website and, create simple memes, and save them in their personal library, with options to publish their memes, like and follow other creators.
 
 ### Tasks
    - Implement a user interface for meme generation using the meme generator API. Users should be able to choose images, add text, and customize their memes.
@@ -558,7 +560,7 @@ Create a meme feed application. Users should be able to login to the website and
    - Enable users to publish their memes to a shared meme feed.
    - Implement features for editing and deleting memes.
 
-**NOTE:** The task is to implementation all the features rather than the UI/UX. The task will be graded as `hard` only if the final system is a social media feed for memes.
+**NOTE:** The task is to implement all the features rather than the UI/UX. The task will be graded as `hard` only if the final system is a social media feed for memes.
 
 **Bonus Features**
 - AI integration to images to generate memes from.
@@ -591,7 +593,7 @@ You can use the following meme generator API for this project:
 
 Mentors: [@Shashank SM](https://github.com/Shash0501) (+91 93804 35605), [@Abhishek Satpathy](https://github.com/AbhishekSatpathy4848) (+91 7619503901)
 
-Tag: `Easy-Medium`
+Tag: `Medium`
 
 ### Description
 
@@ -616,7 +618,7 @@ Build a mobile app for users to scan and effectively manage their medical prescr
 
 ### Tips
 
-1. You can either build a Native mobile application for Android/iOS or a Cross-Platform application.
+1. You can either build a native mobile application for Android/iOS or a cross-platform application.
 2. Any useful additional/interesting feature will have bonus points.
 3. You can assume the prescription to be printed (not handwritten) on paper. 
 4. **BONUS:** User login can also be incorporated, allowing users to synchronize their prescriptions across multiple devices.
@@ -646,4 +648,4 @@ Build a mobile application designed for animal enthusiasts, photographers, and p
 
 1. Minimal UI is sufficient.
 2. Pre-trained models can also be used rather than using Google's ML Kit.
-3. You can either build a Native mobile application for Android/iOS or a Cross-Platform application.
+3. You can either build a native mobile application for Android/iOS or a cross-platform application.
