@@ -36,7 +36,7 @@ Fill this [form](#) on or before the deadline date.
 
 ### Contact
 
-In case of further queries, post in the [Recruitment WhatsApp group](https://chat.whatsapp.com/CMU9lcjN0AAEgjnsfAc1PR) or contact:
+In case of further queries, post in the [Recruitment WhatsApp group](https://chat.whatsapp.com/FjnRlt5RIsLC3s68IBC5Nn) or contact:
 * Abhishek Satpathy (+91 76195 03901)
 * Fahim Ahmed (+91 88610 54452)
 * Shashank S M (+91 93804 35605)
