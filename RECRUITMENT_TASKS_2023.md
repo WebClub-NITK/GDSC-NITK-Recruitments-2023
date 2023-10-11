@@ -11,14 +11,12 @@
 
 | Task                                                        | Difficulty |
 | ----------------------------------------------------------- |------------|
-| [NFT Minter](#task-id-nft-minter)                           | Medium |
 | [Chrome Tabs Organiser](#task-id-chrome-tabs-organiser)     | Medium |
 | [VoicePen](#task-id-voicepen)                               | Medium |
 | [WebClub Discord ChatBot](#task-id-webclub-discord-chatbot) | Medium |
 | [SportsTracker](#task-id-sportstracker)                     | Easy |
 | [Leetcode Clone](#task-id-leetcode-clone)                   | Hard |
 | [Splitwise Clone](#task-id-splitwise-clone)                 | Hard |
-| [File Manager](#task-id-file-manager)                       | Hard |
 | [GitHub GraphQL API](#task-id-github-profile-using-graphql-api)| Medium |
 | [CollabPro](#task-id-collabpro)        | Hard |
 | [Space Exploration App](#task-id-space-exploration-app)| Easy |
@@ -26,43 +24,13 @@
 | [Random Character Generator](#task-id-random-avatar-generator)| Easy |
 | [Meme Feed](#task-id-meme-feed)                             | Hard |
 | [MediTracker](#task-id-meditracker)                             | Medium |
-| [Intelligent AutoZoom Camera](#task-id-intelligent-autozoom-camera)                             | Medium |
+| [Intelligent AutoZoom Camera](#task-id-intelligent-autozoom-camera) | Medium |
 
-## Task ID: NFT Minter
+| Inter-SIG Task                               | Associated SIG  | Difficulty |
+| ---------------------------------------------|------------- |------------|
+| [NFT Minter](#task-id-nft-minter)            | Systems      | Medium |
+| [File Manager](#task-id-file-manager)        | Systems      | Hard |
 
-#### `Blockchain`, `Web3`, `NFT`, `Ethereum`
-
-Mentors: [Mardav Gandhi](https://github.com/marcdhi) ([+91 9033398366](https://wa.me/919033398366)), [Ayush Kumar](https://github.com/ayush4345) ([+91 9334352548](https://wa.me/919334352548)), [Parth Mittal](https://github.com/mittal-parth) ([+91 9411327838](https://wa.me/919411327838))
-
-Difficulty: `Medium`
-
-### Description
-
-In this task, you will dive into the world of blockchain and NFTs by minting your very own NFT collection. NFTs are unique digital assets that represent ownership or proof of authenticity of a digital item, such as art, collectables, or even virtual real estate, using blockchain technology.
-
-Follow the steps below to complete this challenge:
-
-1. Mint a collection of your favourite television characters. Find images of your favorite television characters and deploy a smart contract that will mint an NFT for each character.
-2. Set a maximum limit of 3000 NFTs for your collection.
-3. Implement functionality to allow the owner of an NFT to change its image.
-
-### Useful resources:
-
-These links might give you a direction
-
-- [How to create an NFT](https://www.web3.university/tracks/build-your-first-nft/how-to-create-an-nft)
-- [Minting an NFT](https://www.web3.university/tracks/build-your-first-nft/how-to-mint-an-nft-using-ethers-js)
-- [IPFS](https://ipfs.tech/) Providers :
-  1. [Pinata](https://www.pinata.cloud/)
-  2. [web3.storage](https://web3.storage/)
-- [Integrate Your Smart Contract With a Frontend](https://www.web3.university/tracks/create-a-smart-contract/integrate-your-smart-contract-with-a-frontend)
-- [Hardhat](https://hardhat.org/)
-
-### Tips
-
-1. Start by researching how to deploy a smart contract on the Ethereum blockchain.
-2. Look into existing NFT standards like `ERC-721` to understand how NFTs work.
-3. You are free to use any frontend framework of your choice.
 
 ## Task ID: Chrome Tabs Organiser
 
@@ -391,60 +359,6 @@ These links might give you a direction
 3. Bonus for making the application responsive.
 
 
-## Task ID: File Manager
-
-#### `Desktop Application`
-
-Mentors: [@Sathvik Hebbar](https://github.com/sathuhebbar) ([+91 6363963887](https://wa.me/916363963887)), [@Fahim Ahmed](https://github.com/ahmedfahim21) ([+91 8861054452](https://wa.me/918861054452))
-
-Tag: `Hard`
-
-### Description:
-
-Desktop applications are software programs that are designed to run on individual computers or devices, such as personal computers and laptops. Unlike web applications, which run in web browsers, desktop applications are installed and executed directly on the user's local machine. They offer various advantages, including improved performance, offline functionality, and access to the full capabilities of the host operating system.
-
-There are several frameworks and technologies used for desktop application development, each with its own strengths and characteristics.
-Some of the popular ones are:
-- [Electron](https://www.electronjs.org/) (used by editors like VS Code and Atom)
-- [Tauri](https://tauri.app/) (Rust-based toolchain for creating desktop apps using common web frameworks )
-- [JavaFX](https://openjfx.io/) (cross-platform Java library, successor to Java SWING)
-- [Qt](https://www.qt.io/) (the framework behind the KDE suite )
-- [GTK](https://www.gtk.org/) (the most common Linux framework, employed by GNOME, MATE, XFCE and almost all non-KDE descendants)
-
-
-In this task, you need to build a simple file manager that allows users to organize, view, and manipulate files and folders on their computer.
-
-Implement a GUI application with the common features found in file managers:
-1. Support for basic file and folder operations such as creating, deleting, copying, and renaming files and folders.
-2. Easy access to information about files and folders like size, type, date created, date modified, and permissions (the Properties dialogue box, basically).
-3. The quick access pane - the pane which shows your library folders (documents, downloads), attached devices, etc, for easy navigation. 
-4. Graceful error handling - appropriate dialogue boxes for, say, a failed operation (due to lack of permissions).
-
-Feel free to implement any other features that you find on your preferred file manager! 
-
-### Useful Resources:
-
-About file systems
-- [C filesyscalls](https://www2.cs.uregina.ca/~hamilton/courses/330/notes/unix/filesyscalls.html)
-- [Rust fs](https://doc.rust-lang.org/stable/std/fs/index.html)
-
-Some good file manager examples for inspiration:
-- [XFCE Thunar](https://docs.xfce.org/xfce/thunar/start)
-- [KDE Dolphin](https://apps.kde.org/dolphin/)
-
-Framework Documentations:
-- [Tauri](https://tauri.app/)
-- [Electron](https://www.electronjs.org/docs/latest)
-- [JavaFX](https://docs.oracle.com/javase/8/javafx/api/toc.htm)
-- [GTK](https://www.gtk.org/docs/)
-- [QT](https://doc.qt.io/)
-
-### Tips:
-- Consider using any frameworks or technologies like Electron, Tauri, JavaFX, Qt, GTK or any other that suits your programming skills and preferences.
-- Leverage existing libraries and tools that can simplify certain tasks.
-- Try to keep minimal UI and focus on the functionality of the application.
-
-
 ## Task ID: Space Exploration App
 
 #### `Front-End Web Development`, `APIs`, `Svelte`
@@ -648,3 +562,96 @@ Build a mobile application designed for animal enthusiasts, photographers, and p
 1. Minimal UI is sufficient.
 2. Pre-trained models can also be used rather than using Google's ML Kit.
 3. You can either build a native mobile application for Android/iOS or a cross-platform application.
+
+***
+
+# Inter-SIG Tasks
+
+## Task ID: NFT Minter
+
+#### `Blockchain`, `Web3`, `NFT`, `Ethereum`
+
+Mentors: [Mardav Gandhi](https://github.com/marcdhi) ([+91 9033398366](https://wa.me/919033398366)), [Ayush Kumar](https://github.com/ayush4345) ([+91 9334352548](https://wa.me/919334352548)), [Parth Mittal](https://github.com/mittal-parth) ([+91 9411327838](https://wa.me/919411327838))
+
+Difficulty: `Medium`
+
+### Description
+
+In this task, you will dive into the world of blockchain and NFTs by minting your very own NFT collection. NFTs are unique digital assets that represent ownership or proof of authenticity of a digital item, such as art, collectables, or even virtual real estate, using blockchain technology.
+
+Follow the steps below to complete this challenge:
+
+1. Mint a collection of your favourite television characters. Find images of your favorite television characters and deploy a smart contract that will mint an NFT for each character.
+2. Set a maximum limit of 3000 NFTs for your collection.
+3. Implement functionality to allow the owner of an NFT to change its image.
+
+### Useful resources:
+
+These links might give you a direction
+
+- [How to create an NFT](https://www.web3.university/tracks/build-your-first-nft/how-to-create-an-nft)
+- [Minting an NFT](https://www.web3.university/tracks/build-your-first-nft/how-to-mint-an-nft-using-ethers-js)
+- [IPFS](https://ipfs.tech/) Providers :
+  1. [Pinata](https://www.pinata.cloud/)
+  2. [web3.storage](https://web3.storage/)
+- [Integrate Your Smart Contract With a Frontend](https://www.web3.university/tracks/create-a-smart-contract/integrate-your-smart-contract-with-a-frontend)
+- [Hardhat](https://hardhat.org/)
+
+### Tips
+
+1. Start by researching how to deploy a smart contract on the Ethereum blockchain.
+2. Look into existing NFT standards like `ERC-721` to understand how NFTs work.
+3. You are free to use any frontend framework of your choice.
+
+## Task ID: File Manager
+
+#### `Desktop Application`
+
+Mentors: [@Sathvik Hebbar](https://github.com/sathuhebbar) ([+91 6363963887](https://wa.me/916363963887)), [@Fahim Ahmed](https://github.com/ahmedfahim21) ([+91 8861054452](https://wa.me/918861054452))
+
+Tag: `Hard`
+
+### Description:
+
+Desktop applications are software programs that are designed to run on individual computers or devices, such as personal computers and laptops. Unlike web applications, which run in web browsers, desktop applications are installed and executed directly on the user's local machine. They offer various advantages, including improved performance, offline functionality, and access to the full capabilities of the host operating system.
+
+There are several frameworks and technologies used for desktop application development, each with its own strengths and characteristics.
+Some of the popular ones are:
+- [Electron](https://www.electronjs.org/) (used by editors like VS Code and Atom)
+- [Tauri](https://tauri.app/) (Rust-based toolchain for creating desktop apps using common web frameworks )
+- [JavaFX](https://openjfx.io/) (cross-platform Java library, successor to Java SWING)
+- [Qt](https://www.qt.io/) (the framework behind the KDE suite )
+- [GTK](https://www.gtk.org/) (the most common Linux framework, employed by GNOME, MATE, XFCE and almost all non-KDE descendants)
+
+
+In this task, you need to build a simple file manager that allows users to organize, view, and manipulate files and folders on their computer.
+
+Implement a GUI application with the common features found in file managers:
+1. Support for basic file and folder operations such as creating, deleting, copying, and renaming files and folders.
+2. Easy access to information about files and folders like size, type, date created, date modified, and permissions (the Properties dialogue box, basically).
+3. The quick access pane - the pane which shows your library folders (documents, downloads), attached devices, etc, for easy navigation. 
+4. Graceful error handling - appropriate dialogue boxes for, say, a failed operation (due to lack of permissions).
+
+Feel free to implement any other features that you find on your preferred file manager! 
+
+### Useful Resources:
+
+About file systems
+- [C filesyscalls](https://www2.cs.uregina.ca/~hamilton/courses/330/notes/unix/filesyscalls.html)
+- [Rust fs](https://doc.rust-lang.org/stable/std/fs/index.html)
+
+Some good file manager examples for inspiration:
+- [XFCE Thunar](https://docs.xfce.org/xfce/thunar/start)
+- [KDE Dolphin](https://apps.kde.org/dolphin/)
+
+Framework Documentations:
+- [Tauri](https://tauri.app/)
+- [Electron](https://www.electronjs.org/docs/latest)
+- [JavaFX](https://docs.oracle.com/javase/8/javafx/api/toc.htm)
+- [GTK](https://www.gtk.org/docs/)
+- [QT](https://doc.qt.io/)
+
+### Tips:
+- Consider using any frameworks or technologies like Electron, Tauri, JavaFX, Qt, GTK or any other that suits your programming skills and preferences.
+- Leverage existing libraries and tools that can simplify certain tasks.
+- Try to keep minimal UI and focus on the functionality of the application.
