@@ -591,7 +591,7 @@ You can use the following meme generator API for this project:
 
 #### `Mobile App Development`  `Google ML Kit` `Calendar Integration`
 
-Mentors: [@Shashank SM](https://github.com/Shash0501) (+91 93804 35605), [@Abhishek Satpathy](https://github.com/AbhishekSatpathy4848) (+91 7619503901)
+Mentors: [@Shashank SM](https://github.com/Shash0501) [+91 9380435605](https://wa.me/9380435605), [@Abhishek Satpathy](https://github.com/AbhishekSatpathy4848) [+91 7619503901](https://wa.me/7619503901)
 
 Tag: `Medium`
 
@@ -628,7 +628,7 @@ Build a mobile app for users to scan and effectively manage their medical prescr
 
 #### `Mobile App Development`, `Google MLKit`
 
-Mentors: [@Shashank SM](https://github.com/Shash0501) (+91 93804 35605), [@Abhishek Satpathy](https://github.com/AbhishekSatpathy4848) (+91 7619503901)
+Mentors: [@Shashank SM](https://github.com/Shash0501) [+91 9380435605](https://wa.me/9380435605), [@Abhishek Satpathy](https://github.com/AbhishekSatpathy4848) [+91 7619503901](https://wa.me/7619503901)
 
 Tag: `Medium`
 
