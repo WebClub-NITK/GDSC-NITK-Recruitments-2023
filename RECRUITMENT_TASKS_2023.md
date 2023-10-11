@@ -237,7 +237,7 @@ In short, the application should allow users to:
 ## Task ID: Leetcode Clone
 #### `Web Development`, `Code Execution`, `Backend Development`, `API Integration`
 
-Mentors:  [@Shubham-Rasal](https://github.com/Shubham-Rasal) ([+91 7349784770](https://wa.me/917349784770)),  [@sujay000](https://github.com/sujay000) ([+91 94219 68047](https://wa.me/9194219 68047))
+Mentors:  [@Shubham-Rasal](https://github.com/Shubham-Rasal) ([+91 7349784770](https://wa.me/917349784770)),  [@sujay000](https://github.com/sujay000) ([+91 94219 68047](https://wa.me/919421968047))
 Tag: `Hard`
 
 ### Description
