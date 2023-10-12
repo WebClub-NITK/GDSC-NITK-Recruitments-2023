@@ -31,7 +31,6 @@
 * Share your link if it's deployed, or share the APK.
 ### Submission
 
-TODO: create a form
 Fill this [form](https://iris.nitk.ac.in/form/gdsc_recs_2023) on or before the deadline date.
 
 ### Contact
